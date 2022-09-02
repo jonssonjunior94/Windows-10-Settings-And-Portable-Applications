@@ -58,7 +58,7 @@ Press the Windows + R keys to open the Run dialog box.
 
 Type `main.cpl` and then press Enter.
 
-Click the arrow "Pointer Options" and unclick "Enhance Pointer Speed"
+Click the "Pointer Options" tab and unclick "Enhance Pointer Speed"
 
 
 
