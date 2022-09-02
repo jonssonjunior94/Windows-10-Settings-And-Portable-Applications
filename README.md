@@ -2,7 +2,7 @@
 
 - [Windows Settings](#windows-settings)
   - [Performance Options](#performance-options)
-  - [High Performance Power Plan](high-performance-power-plan)
+  - [High Performance Power Plan](#high-performance-power-plan)
 
 
 <!-- vim-markdown-toc -->
