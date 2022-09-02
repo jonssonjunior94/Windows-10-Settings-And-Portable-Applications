@@ -1,4 +1,13 @@
+
+## Applications
+
+- [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
+- [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly.
+- [Open Hardware Monitor](https://openhardwaremonitor.org/) - Free open source software that monitors temperature, fans, voltages, load and clock speeds.
 _____________________________________________________________________________________________________________________
+
+## Settings
+
 ## Windows Animations
 
 * Easiest way is to enable "God Mode". All you have to do is right-click a blank area on your desktop, New > Folder
@@ -17,7 +26,3 @@ ________________________________________________________________________________
 
 Done.
 _____________________________________________________________________________________________________________________
-
-[I'm an inline-style link](https://www.google.com)
-
-
