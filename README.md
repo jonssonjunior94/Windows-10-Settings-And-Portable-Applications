@@ -6,7 +6,7 @@
 - [Open Hardware Monitor](https://openhardwaremonitor.org/) - Free open source software that monitors temperature, fans, voltages, load and clock speeds.
 
 ### Extras
-- [Geek Uninstaller](/geekuninstaller.com/) - Geek Uninstaller is a perfectly functional uninstaller. Also removes attached registry keys.
+- [Geek Uninstaller](https://geekuninstaller.com/) - Geek Uninstaller is a perfectly functional uninstaller. Also removes attached registry keys.
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 - 
 _____________________________________________________________________________________________________________________
