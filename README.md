@@ -1,7 +1,7 @@
 ## Windows Settings
 
 - [Windows Settings](#windows-settings)
-  - [Performance Options](#performance-options) - Remove Animations
+  - [Performance Options](#performance-options) - Remove Animations.
   - [High Performance Power Plan](#high-performance-power-plan)
 
 
