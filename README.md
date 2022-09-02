@@ -24,8 +24,6 @@
 
 _____________________________________________________________________________________________________________________
 
-### Windows Settings
-
 ## Performance Options
 
 Easiest way is to enable "God Mode". All you have to do is right-click a blank area on your desktop, New > Folder
