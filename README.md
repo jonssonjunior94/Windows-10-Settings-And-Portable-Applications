@@ -1,4 +1,4 @@
-### Windows Settings
+## Windows Settings
 
 - [Windows Settings](#windows-settings)
   - [Performance Options](#performance-options)
@@ -18,7 +18,7 @@
 
 
 
-### Extras
+#### Extras
 - [Geek Uninstaller](https://geekuninstaller.com/) - Geek Uninstaller is a perfectly functional uninstaller. Also removes attached registry keys.
 
 
