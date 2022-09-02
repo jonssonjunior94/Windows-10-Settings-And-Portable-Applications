@@ -1,5 +1,5 @@
 _____________________________________________________________________________________________________________________
-# Windows Animations
+## Windows Animations
 
 * Easiest way is to enable "God Mode". All you have to do is right-click a blank area on your desktop, New > Folder
 
@@ -14,3 +14,4 @@ Copy these settings:
 ![image](https://user-images.githubusercontent.com/25332460/188121561-56314c8e-6644-4251-97d0-81d018cb137c.png)
 
 _____________________________________________________________________________________________________________________
+
