@@ -2,6 +2,7 @@
 
 - [Windows Settings](#windows-settings)
   - [Performance Options](#performance-options)
+  - [High Performance Power Plan](high-performance-power-plan)
 
 
 <!-- vim-markdown-toc -->
@@ -44,3 +45,5 @@ Copy these settings:
 
 Done.
 _____________________________________________________________________________________________________________________
+
+## High Performance Power Plan
