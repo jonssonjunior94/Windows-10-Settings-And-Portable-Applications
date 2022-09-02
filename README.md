@@ -1,4 +1,5 @@
 - [Applications](#Applications)
+  - [Turn off Windows Animations](#turn-off-windows-animations)
 
 
 <!-- vim-markdown-toc -->
