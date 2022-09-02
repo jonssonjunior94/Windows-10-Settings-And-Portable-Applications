@@ -47,5 +47,11 @@ ________________________________________________________________________________
 
 ### High Performance Power Plan
 
+Press the Windows + R keys to open the Run dialog box.
+
+Type `powercfg.cpl` and then press Enter.
+
+
+
 ![image](https://user-images.githubusercontent.com/25332460/188212951-e8af5842-b11b-4f66-a72e-5f45fbb97ae4.png)
 
