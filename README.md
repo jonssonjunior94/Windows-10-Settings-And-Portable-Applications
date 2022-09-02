@@ -32,7 +32,7 @@ Easiest way is to enable "God Mode". All you have to do is right-click a blank a
 
 Rename your new folder to: `GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}`
  
- Launch → ![explorer_fKEV5Q71tZ](https://user-images.githubusercontent.com/25332460/188120992-c1341b66-c652-4c9b-b640-be453ff0f178.jpg) and look for "Adjust the appearance and performance of Windows"
+ Launch  ![explorer_fKEV5Q71tZ](https://user-images.githubusercontent.com/25332460/188120992-c1341b66-c652-4c9b-b640-be453ff0f178.jpg) and look for ↓ "Adjust the appearance and performance of Windows"
 
 
 ![image](https://user-images.githubusercontent.com/25332460/188159433-47044b24-58fc-423c-899d-a4e03a8ba6ff.png)
