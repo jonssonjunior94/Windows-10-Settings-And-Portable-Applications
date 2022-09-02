@@ -1,7 +1,7 @@
 _____________________________________________________________________________________________________________________
 # Windows Animations
 
-* Easiest way is to enable "God Mode" all you have to do is right-click a blank area on your desktop, New > Folder
+* Easiest way is to enable "God Mode". All you have to do is right-click a blank area on your desktop, New > Folder
 
 ![image](https://user-images.githubusercontent.com/25332460/188119784-5825b25c-af37-46b8-ac2b-e5b50bbd232d.png)
 
