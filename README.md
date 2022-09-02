@@ -54,5 +54,13 @@ ________________________________________________________________________________
 
 ### Mouse Properties
 
+Press the Windows + R keys to open the Run dialog box.
+
+Type `main.cpl` and then press Enter.
+
+Click the arrow "Pointer Options" and unclick "Enhance Pointer Speed"
+
+
+
 ![rundll32_c59SKJeOTp](https://user-images.githubusercontent.com/25332460/188221061-d85f4c16-c487-4e4c-89d7-ffe48c0c49c2.jpg)
 
