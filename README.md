@@ -1,5 +1,12 @@
+- [Applications](#Applications)
 
-## Applications
+
+<!-- vim-markdown-toc -->
+
+
+
+
+### Applications
 
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly.
