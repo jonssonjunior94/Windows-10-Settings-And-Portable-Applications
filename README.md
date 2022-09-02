@@ -52,7 +52,7 @@ Click the arrow "Show additional plans" and choose High performance
 
 _____________________________________________________________________________________________________________________
 
-Mouse Properties
+### Mouse Properties
 
 ![rundll32_c59SKJeOTp](https://user-images.githubusercontent.com/25332460/188221061-d85f4c16-c487-4e4c-89d7-ffe48c0c49c2.jpg)
 
