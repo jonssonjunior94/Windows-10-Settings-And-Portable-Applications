@@ -23,7 +23,7 @@
 - [Geek Uninstaller](https://geekuninstaller.com/) - Geek Uninstaller is a perfectly functional uninstaller. Also removes attached registry keys.
 
 
-_____________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________
 
 ### Performance Options
 
