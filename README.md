@@ -3,7 +3,7 @@
 - [Windows Settings](#windows-settings)
   - [Performance Options](#performance-options) - Remove Animations.
   - [High Performance Power Plan](#high-performance-power-plan) - Lets your PC use more energy.
-  - [Mouse Properties](#mouse-properties) - Remove the feature that calculates the velocity of the mouse and adjusts the DPI on the fly.
+  - [Mouse Properties](#mouse-properties) - Remove the feature that calculates the velocity of the mouse and adjusts the DPI.
 
 
 <!-- vim-markdown-toc -->
