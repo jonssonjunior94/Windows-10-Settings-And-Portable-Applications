@@ -1,7 +1,7 @@
 ## Windows Settings
 
 - [Windows Settings](#windows-settings)
-  - [Performance Options](#performance-options) - Remove Animations to make Windows feel snappier.
+  - [Performance Options](#performance-options) - Remove Animations.
   - [High Performance Power Plan](#high-performance-power-plan) - Lets your PC use more.
 
 
