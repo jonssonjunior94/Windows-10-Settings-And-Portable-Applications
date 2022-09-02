@@ -24,7 +24,7 @@
 
 _____________________________________________________________________________________________________________________
 
-## Performance Options
+### Performance Options
 
 Easiest way is to enable "God Mode". All you have to do is right-click a blank area on your desktop, New > Folder
 
@@ -44,4 +44,8 @@ Copy these settings:
 Done.
 _____________________________________________________________________________________________________________________
 
-## High Performance Power Plan
+
+### High Performance Power Plan
+
+![image](https://user-images.githubusercontent.com/25332460/188212951-e8af5842-b11b-4f66-a72e-5f45fbb97ae4.png)
+
