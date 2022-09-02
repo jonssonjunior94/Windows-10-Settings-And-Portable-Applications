@@ -13,7 +13,7 @@
 
 ### Applications
 
-- [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool. [Image]
+- [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool. [Image](https://u.teknik.io/qGzXn.png)
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly. [Image](https://i.imgur.com/tv0e2NU.jpeg) 
 - [Open Hardware Monitor](https://openhardwaremonitor.org/) - Free open source software that monitors temperatures. [Image](https://i.imgur.com/bZ2JBBa.jpg) 
 
