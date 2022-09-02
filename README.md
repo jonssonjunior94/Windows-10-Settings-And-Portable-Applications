@@ -1,3 +1,5 @@
+### Windows Settings
+
 - [Windows Settings](#windows-settings)
   - [Turn off Windows Animations](#turn-off-windows-animations)
 
