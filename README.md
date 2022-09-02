@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 ## Settings
 
-## Windows Animations
+## Turn off Windows Animations
 
 * Easiest way is to enable "God Mode". All you have to do is right-click a blank area on your desktop, New > Folder
 
