@@ -1,8 +1,8 @@
 ## Windows Settings
 
 - [Windows Settings](#windows-settings)
-  - [Performance Options](#performance-options) - Remove Animations.
-  - [High Performance Power Plan](#high-performance-power-plan)
+  - [Performance Options](#performance-options) - Remove Animations to make Windows feel snappier.
+  - [High Performance Power Plan](#high-performance-power-plan) - Lets your PC use more.
 
 
 <!-- vim-markdown-toc -->
@@ -48,4 +48,11 @@ Click the arrow "Show additional plans" and choose High performance
 
 
 ![image](https://user-images.githubusercontent.com/25332460/188212951-e8af5842-b11b-4f66-a72e-5f45fbb97ae4.png)
+
+_____________________________________________________________________________________________________________________
+
+Disk Cleanup
+
+![image](https://user-images.githubusercontent.com/25332460/188219045-3d70b4ef-dc17-419d-9ef3-7f451e17de4a.png)
+
 
