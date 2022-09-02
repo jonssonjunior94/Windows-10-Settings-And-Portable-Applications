@@ -3,6 +3,7 @@
 - [Windows Settings](#windows-settings)
   - [Performance Options](#performance-options) - Remove Animations.
   - [High Performance Power Plan](#high-performance-power-plan) - Lets your PC use more.
+  - [Mouse Properties](#mouse-properties) - The feature will calculate the velocity of the mouse and adjust the DPI on the fly.
 
 
 <!-- vim-markdown-toc -->
@@ -51,8 +52,7 @@ Click the arrow "Show additional plans" and choose High performance
 
 _____________________________________________________________________________________________________________________
 
-Disk Cleanup
+Mouse Properties
 
-![image](https://user-images.githubusercontent.com/25332460/188219045-3d70b4ef-dc17-419d-9ef3-7f451e17de4a.png)
-
+![rundll32_c59SKJeOTp](https://user-images.githubusercontent.com/25332460/188221061-d85f4c16-c487-4e4c-89d7-ffe48c0c49c2.jpg)
 
