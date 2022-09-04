@@ -22,7 +22,7 @@
 #### Extras
 - [scrcpy](https://github.com/Genymobile/scrcpy) - This application provides display and control of Android devices connected via USB.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
-- [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) - Works good with [yt-dlp](https://github.com/yt-dlp/yt-dlp).
+- [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) - Works great with [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 - [Discord portable](https://github.com/portapps/discord-portable) - Portable instead of the regular auto install.
 
 _______________________________________________________________________________________________________________________________________________________
