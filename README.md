@@ -34,8 +34,7 @@
 ###### Websites
 - [Send](https://github.com/timvisee/send-instances/#instances) - Share encrypted files with ease.
 - [Gmailnator](https://www.emailnator.com/) - Temporary Disposable Gmail.
-- [Send](https://github.com/timvisee/send-instances/#instances) - Share encrypted files with ease.
-- [Send](https://github.com/timvisee/send-instances/#instances) - Share encrypted files with ease.
+- [Redirect Detective](https://redirectdetective.com/) - URL redirection checker that allows you to see the complete path a redirected URL goes through.
 
 
 _______________________________________________________________________________________________________________________________________________________
