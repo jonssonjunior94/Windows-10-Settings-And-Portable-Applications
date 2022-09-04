@@ -25,6 +25,10 @@
 - [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) - Works great with [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 - [Discord portable](https://github.com/portapps/discord-portable) - Portable instead of the regular auto install.
 
+- [Twitch GUI](https://github.com/portapps/discord-portable) - A multi platform Twitch.tv browser for [Streamlink](https://github.com/streamlink/streamlink)
+
+
+
 _______________________________________________________________________________________________________________________________________________________
 
 ### Performance Options
