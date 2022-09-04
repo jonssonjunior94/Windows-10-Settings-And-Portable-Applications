@@ -19,7 +19,7 @@
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly.
 - [Open Hardware Monitor](https://openhardwaremonitor.org/) - Free open source software that monitors temperatures.
 - [Geek Uninstaller](https://geekuninstaller.com/) - Geek Uninstaller is a perfectly functional uninstaller. Also removes attached registry keys.
-- [Notepad++](https://notepad-plus-plus.org/downloads/) - Notepad++ is a free source code editor
+- [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages.
 
 
 
