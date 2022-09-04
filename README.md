@@ -20,6 +20,7 @@
 - [Open Hardware Monitor](https://openhardwaremonitor.org/) - Free open source software that monitors temperatures.
 - [Geek Uninstaller](https://geekuninstaller.com/) - Geek Uninstaller is a perfectly functional uninstaller. Also removes attached registry keys.
 - [Transmission](https://transmissionbt.com/) - Small footprint with minimal user interface.
+- [Rufus](https://rufus.ie/en/) - Create bootable USB drives the easy way.
 
 
 
