@@ -33,6 +33,9 @@
 
 #### Websites
 - [Send](https://github.com/timvisee/send-instances/#instances) - Share encrypted files with ease.
+- [Gmailnator](https://www.emailnator.com/) - Temporary Disposable Gmail
+- [Send](https://github.com/timvisee/send-instances/#instances) - Share encrypted files with ease.
+- [Send](https://github.com/timvisee/send-instances/#instances) - Share encrypted files with ease.
 
 
 _______________________________________________________________________________________________________________________________________________________
