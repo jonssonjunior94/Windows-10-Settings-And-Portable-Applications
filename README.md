@@ -22,7 +22,7 @@
 #### Extras
 - [Scrcpy](https://github.com/Genymobile/scrcpy) - This application provides display and control of Android devices connected via USB.
 - [Yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
-- [Youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) - Works great with [yt-dlp](https://github.com/yt-dlp/yt-dlp). ![image](https://user-images.githubusercontent.com/25332460/188329085-34154ead-45ab-45f3-8bd5-d2fbff892a47.png)
+- [Youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) - Works great with [yt-dlp](https://github.com/yt-dlp/yt-dlp). [image](https://i.imgur.com/WUuICOT.jpeg)
 
 - [Discord portable](https://github.com/portapps/discord-portable) - Portable instead of the regular auto install.
 - [Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for [Streamlink](https://github.com/streamlink/streamlink). works great with [VLC](https://www.videolan.org/vlc/download-windows.html)
