@@ -13,6 +13,8 @@
 
 ### Applications
 
+
+- [7-Zip](https://www.7-zip.org/download.html) - A file archiver with a high compression ratio.
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly.
 - [Open Hardware Monitor](https://openhardwaremonitor.org/) - Free open source software that monitors temperatures.
