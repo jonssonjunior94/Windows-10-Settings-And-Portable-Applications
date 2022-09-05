@@ -16,7 +16,7 @@
 
 - [7-Zip](https://www.7-zip.org/download.html) - File archiver with a high compression ratio and built-in encryption functionality.
 - [ShareX](https://getsharex.com/) - Lets you take screenshots of any selected area with a single key.
-- [Open Hardware Monitor](https://openhardwaremonitor.org/) - Free open source software that monitors temperatures.
+- [Open Hardware Monitor](https://openhardwaremonitor.org/) - Free open source software that monitors temperatures. https://camo.githubusercontent.com/8354ae23fed92d21e4c27db64b4dfb654a1dffb56d20b2642ffc1db1135381e7/68747470733a2f2f63646e2e7261776769742e636f6d2f417765736f6d652d57696e646f77732f417765736f6d652f6d61737465722f6d656469612f4f53532e737667
 - [Geek Uninstaller](https://geekuninstaller.com/) - Geek Uninstaller is a perfectly functional uninstaller. Also removes attached registry keys.
 - [Transmission](https://transmissionbt.com/) - Small footprint with minimal user interface.
 - [Rufus](https://rufus.ie/en/) - Create bootable USB drives the easy way.
