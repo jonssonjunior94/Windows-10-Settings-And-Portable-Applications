@@ -4,7 +4,7 @@
   - [Performance Options](#performance-options) - Remove Animations.
   - [High Performance Power Plan](#high-performance-power-plan) - Lets your PC use more energy.
   - [Mouse Properties](#mouse-properties) - Remove the feature that calculates the velocity of the mouse and adjusts the DPI.
-  - [Nvidia Control Panel](#nvidia-control-panel) - Test.
+  - [Nvidia Control Panel](#nvidia-control-panel) - My settings.
 
 
 <!-- vim-markdown-toc -->
