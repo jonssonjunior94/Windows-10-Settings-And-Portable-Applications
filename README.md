@@ -17,7 +17,7 @@
 - [7-Zip](https://www.7-zip.org/download.html) - File archiver with a high compression ratio and built-in encryption functionality.
 - [ShareX](https://github.com/ShareX/ShareX/releases) - Lets you take screenshots of any selected area with a single key.
 - [Discord portable](https://github.com/portapps/discord-portable) - Portable instead of the regular auto install.
-- [Open Hardware Monitor](https://openhardwaremonitor.org/) - Free open source software that monitors temperatures.
+- [Open Hardware Monitor](https://openhardwaremonitor.org/downloads/) - Free open source software that monitors temperatures.
 - [Geek Uninstaller](https://geekuninstaller.com/) - Geek Uninstaller is a perfectly functional uninstaller. Also removes attached registry keys.
 
 
