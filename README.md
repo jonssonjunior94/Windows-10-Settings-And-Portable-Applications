@@ -28,7 +28,7 @@
 - [Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for [Streamlink](https://github.com/streamlink/streamlink), works great with [VLC](https://www.videolan.org/vlc/download-windows.html).
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly. Plus [Everything Toolbar](https://github.com/stnkl/EverythingToolbar) for the taskbar.
 
-#### Websites
+#### Useful Websites
 - [Send](https://github.com/timvisee/send-instances/#instances) - Share encrypted files with ease.
 - [Gmailnator](https://www.emailnator.com/) - Temporary Disposable Gmail.
 - [Redirect Detective](https://redirectdetective.com/) - URL redirection checker that allows you to see the complete path a redirected URL goes through.
