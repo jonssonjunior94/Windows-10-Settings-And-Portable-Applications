@@ -87,7 +87,10 @@ Test
 
 _______________________________________________________________________________________________________________________________________________________
 
+Press the Windows + R keys to open the Run dialog box.
 
-taskkill /F /IM explorer.exe & start explorer
+Type `cmd` and then press Enter.
+
+Type `taskkill /F /IM explorer.exe & start explorer` To restart Windows Explorer.exe
 
 
