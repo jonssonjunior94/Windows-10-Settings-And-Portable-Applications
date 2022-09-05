@@ -81,6 +81,6 @@ ________________________________________________________________________________
 
 ### Nvidia Control Panel
 
-![Nvidia Control Settings](https://user-images.githubusercontent.com/25332460/188423537-6cb84202-784c-4263-af76-4858dce17bc6.png)
+![Nvidia Control Panel](https://user-images.githubusercontent.com/25332460/188423537-6cb84202-784c-4263-af76-4858dce17bc6.png)
 
 
