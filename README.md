@@ -7,6 +7,7 @@
 
    ###### Registry Hacks
   - [Taskbar Clock Display Seconds](#taskbar-clock-display-seconds)
+  - [Add Apps to the Desktop Context Menu](# )
 
 
 <!-- vim-markdown-toc -->
