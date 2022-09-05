@@ -1,4 +1,4 @@
-## Windows 10 Settings
+## Settings
 
 - [Windows Settings](#windows-settings)
   - [Performance Options](#performance-options) - Remove Animations.
