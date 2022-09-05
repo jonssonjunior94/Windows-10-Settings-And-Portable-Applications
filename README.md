@@ -85,8 +85,12 @@ ________________________________________________________________________________
 
 ### Taskbar Clock
 
+Press the Windows + R keys to open the Run dialog box.
+
 Type `Regedit` and then press Enter.
 
+
+To restart explorer:
 Press the Windows + R keys to open the Run dialog box.
 
 Type `cmd` and then press Enter.
