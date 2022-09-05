@@ -85,6 +85,8 @@ ________________________________________________________________________________
 
 ### Taskbar Clock
 
+Type `Regedit` and then press Enter.
+
 Press the Windows + R keys to open the Run dialog box.
 
 Type `cmd` and then press Enter.
