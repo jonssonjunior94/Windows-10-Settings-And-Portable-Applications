@@ -1,4 +1,4 @@
-## Settings
+### Settings
 
 - Windows Settings
   - [Performance Options](#performance-options) - Remove Animations.
