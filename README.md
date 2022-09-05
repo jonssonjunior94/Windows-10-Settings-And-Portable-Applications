@@ -4,6 +4,7 @@
   - [Performance Options](#performance-options) - Remove Animations.
   - [High Performance Power Plan](#high-performance-power-plan) - Lets your PC use more energy.
   - [Mouse Properties](#mouse-properties) - Remove the feature that calculates the velocity of the mouse and adjusts the DPI.
+  - [Nvidia Control Panel)(#nvidia-control-panel) - Test
 
 
 <!-- vim-markdown-toc -->
@@ -75,4 +76,11 @@ Click the "Pointer Options" tab and unclick "Enhance pointer speed"
 
 
 ![rundll32_c59SKJeOTp](https://user-images.githubusercontent.com/25332460/188221061-d85f4c16-c487-4e4c-89d7-ffe48c0c49c2.jpg)
+
+_______________________________________________________________________________________________________________________________________________________
+
+### Nvidia Control Panel
+
+![Nvidia Control Settings](https://user-images.githubusercontent.com/25332460/188423537-6cb84202-784c-4263-af76-4858dce17bc6.png)
+
 
