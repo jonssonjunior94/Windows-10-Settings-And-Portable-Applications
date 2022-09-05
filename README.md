@@ -16,7 +16,6 @@
 
 - [7-Zip](https://www.7-zip.org/download.html) - File archiver with a high compression ratio and built-in encryption functionality.
 - [ShareX](https://getsharex.com/) - Lets you take screenshots of any selected area with a single key.
-- [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly.
 - [Open Hardware Monitor](https://openhardwaremonitor.org/) - Free open source software that monitors temperatures.
 - [Geek Uninstaller](https://geekuninstaller.com/) - Geek Uninstaller is a perfectly functional uninstaller. Also removes attached registry keys.
 - [Transmission](https://transmissionbt.com/) - Small footprint with minimal user interface.
