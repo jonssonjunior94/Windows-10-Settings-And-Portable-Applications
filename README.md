@@ -1,11 +1,11 @@
 ### Settings
 
-- Windows Settings
+- ##### Windows Settings
   - [Performance Options](#performance-options) - Remove Animations.
   - [High Performance Power Plan](#high-performance-power-plan) - Lets your PC use more energy.
   - [Mouse Properties](#mouse-properties) - Remove the feature that calculates the velocity of the mouse and adjusts the DPI.
 
-   ###### Registry Hacks
+   ##### Registry Hacks
   - [Taskbar Clock](#taskbar-clock) - Show Seconds by Editing the Registry.
   - [Add Apps to the Desktop Context Menu](# ) - 
 
