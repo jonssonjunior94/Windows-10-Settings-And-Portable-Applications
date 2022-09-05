@@ -6,7 +6,7 @@
   - [Mouse Properties](#mouse-properties) - Remove the feature that calculates the velocity of the mouse and adjusts the DPI.
 
    ###### Registry Hacks
-  - [Taskbar Clock Display Seconds](#taskbar-clock-display-seconds)
+  - [Taskbar Clock Display Seconds](#taskbar-clock-display-seconds) . Show Seconds by Editing the Registry.
   - [Add Apps to the Desktop Context Menu](# )
 
 
