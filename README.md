@@ -6,7 +6,7 @@
   - [Mouse Properties](#mouse-properties) - Remove the feature that calculates the velocity of the mouse and adjusts the DPI.
 
    ###### Registry Hacks
-  - [Taskbar Clock Display Seconds](#taskbar-clock-display-seconds) . Show Seconds by Editing the Registry.
+  - [Taskbar Clock](#taskbar-clock) . Show Seconds by Editing the Registry.
   - [Add Apps to the Desktop Context Menu](# )
 
 
@@ -83,7 +83,7 @@ Click the "Pointer Options" tab and unclick "Enhance pointer speed"
 _______________________________________________________________________________________________________________________________________________________
 
 
-### Taskbar Clock Display Seconds
+### Taskbar Clock
 
 Press the Windows + R keys to open the Run dialog box.
 
