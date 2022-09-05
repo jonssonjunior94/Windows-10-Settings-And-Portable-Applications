@@ -35,7 +35,7 @@
 - [Send](https://github.com/timvisee/send-instances/#instances) - Share encrypted files with ease.
 - [Gmailnator](https://www.emailnator.com/) - Temporary Disposable Gmail.
 - [Redirect Detective](https://redirectdetective.com/) - URL redirection checker, see the complete path a redirected URL goes through.
-- [Have i been pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach. Only knows publicly discovered.
+- [Have i been pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach. Only knows publicly discovered breaches.
 
 
 _______________________________________________________________________________________________________________________________________________________
