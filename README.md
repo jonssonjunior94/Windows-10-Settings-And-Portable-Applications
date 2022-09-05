@@ -7,7 +7,7 @@
 
    ##### Registry Hacks
   - [Taskbar Clock](#taskbar-clock) - Show Seconds.
-  - [Desktop Context Menu](# ) - Add Any Application to the Windows Desktop Right-Click Menu.
+  - [Context Menu](#context-menu) - Add Any Application to the Windows Desktop Right-Click Menu.
 
 
 <!-- vim-markdown-toc -->
@@ -93,3 +93,15 @@ Then type `taskkill /F /IM explorer.exe & start explorer` in cmd to restart Wind
 
 
 _______________________________________________________________________________________________________________________________________________________
+
+### Context Menu
+
+Press the Windows + R keys to open the Run dialog box.
+
+Type `cmd` and then press Enter.
+
+Then type `taskkill /F /IM explorer.exe & start explorer` in cmd to restart Windows Explorer.exe
+
+
+_______________________________________________________________________________________________________________________________________________________
+
