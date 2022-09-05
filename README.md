@@ -5,7 +5,7 @@
   - [High Performance Power Plan](#high-performance-power-plan) - Lets your PC use more energy.
   - [Mouse Properties](#mouse-properties) - Remove the feature that calculates the velocity of the mouse and adjusts the DPI.
 
-Registry Editor
+- Registry Editor
   - [Taskbar Clock Display Seconds](#taskbar-clock-display-seconds)
 
 
