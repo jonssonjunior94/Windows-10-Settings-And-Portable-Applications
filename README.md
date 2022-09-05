@@ -11,16 +11,13 @@
 
 
 
-### Applications
+### Portable Applications
 
 
 - [7-Zip](https://www.7-zip.org/download.html) - File archiver with a high compression ratio and built-in encryption functionality.
 - [ShareX](https://github.com/ShareX/ShareX) - Lets you take screenshots of any selected area with a single key.
 - [Open Hardware Monitor](https://openhardwaremonitor.org/) - Free open source software that monitors temperatures.
 - [Geek Uninstaller](https://geekuninstaller.com/) - Geek Uninstaller is a perfectly functional uninstaller. Also removes attached registry keys.
-- [Transmission](https://transmissionbt.com/) - Small footprint with minimal user interface.
-- [Rufus](https://rufus.ie/en/) - Create bootable USB drives the easy way.
-
 
 
 
