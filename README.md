@@ -7,7 +7,7 @@
 
    ##### Registry Hacks
   - [Taskbar Clock](#taskbar-clock) - Show Seconds by Editing the Registry.
-  - [Right-Click Menu](# ) - Add Any Application to the Windows Desktop Right-Click Menu
+  - [Desktop Context Menu](# ) - Add Any Application to the Windows Desktop Right-Click Menu.
 
 
 <!-- vim-markdown-toc -->
