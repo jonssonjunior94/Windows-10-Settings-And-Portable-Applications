@@ -4,7 +4,6 @@
   - [Performance Options](#performance-options) - Remove Animations.
   - [High Performance Power Plan](#high-performance-power-plan) - Lets your PC use more energy.
   - [Mouse Properties](#mouse-properties) - Remove the feature that calculates the velocity of the mouse and adjusts the DPI.
-  - [Nvidia Control Panel](#nvidia-control-panel) - My settings.
 
 Registry Editor
   - [Taskbar Clock Display Seconds](#taskbar-clock-display-seconds)
@@ -82,13 +81,6 @@ Click the "Pointer Options" tab and unclick "Enhance pointer speed"
 
 _______________________________________________________________________________________________________________________________________________________
 
-### Nvidia Control Panel
-
-Test
-
-![Nvidia Control Panel](https://user-images.githubusercontent.com/25332460/188423537-6cb84202-784c-4263-af76-4858dce17bc6.png)
-
-_______________________________________________________________________________________________________________________________________________________
 
 ### Taskbar Clock Display Seconds
 
@@ -99,3 +91,4 @@ Type `cmd` and then press Enter.
 Then type `taskkill /F /IM explorer.exe & start explorer` in cmd to restart Windows Explorer.exe
 
 
+_______________________________________________________________________________________________________________________________________________________
