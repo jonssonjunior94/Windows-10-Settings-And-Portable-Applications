@@ -16,6 +16,7 @@
 
 - [7-Zip](https://www.7-zip.org/download.html) - File archiver with a high compression ratio and built-in encryption functionality.
 - [ShareX](https://github.com/ShareX/ShareX/releases) - Lets you take screenshots of any selected area with a single key.
+- [Discord portable](https://github.com/portapps/discord-portable) - Portable instead of the regular auto install.
 - [Open Hardware Monitor](https://openhardwaremonitor.org/) - Free open source software that monitors temperatures.
 - [Geek Uninstaller](https://geekuninstaller.com/) - Geek Uninstaller is a perfectly functional uninstaller. Also removes attached registry keys.
 
@@ -24,7 +25,6 @@
 #### Extras
 - [Scrcpy](https://github.com/Genymobile/scrcpy) - This application provides display and control of Android devices connected via USB.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes. Works great with [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui)
-- [Discord portable](https://github.com/portapps/discord-portable) - Portable instead of the regular auto install.
 - [Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for [Streamlink](https://github.com/streamlink/streamlink), works great with [VLC](https://www.videolan.org/vlc/download-windows.html).
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly. Plus [Everything Toolbar](https://github.com/stnkl/EverythingToolbar) for the taskbar.
 
