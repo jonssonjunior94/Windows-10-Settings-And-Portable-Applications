@@ -91,6 +91,6 @@ Press the Windows + R keys to open the Run dialog box.
 
 Type `cmd` and then press Enter.
 
-Type `taskkill /F /IM explorer.exe & start explorer` To restart Windows Explorer.exe
+Then type `taskkill /F /IM explorer.exe & start explorer` in cmd to restart Windows Explorer.exe
 
 
