@@ -109,7 +109,7 @@ Double-click the value you just created, enter a value data of `1` and click OK.
 ![image](https://user-images.githubusercontent.com/25332460/188941507-a2b2548b-174e-410b-bf88-eb96dff227e2.png)
 
 
-You can now close the Registry Editor. You will have to sign out and sign back in again or:
+You can now close the Registry Editor. You will have to sign out and sign back in again or
 
 Press the Windows + R keys to open the Run dialog box.
 
@@ -118,7 +118,6 @@ Type `cmd` and then press Enter.
 Then type `taskkill /F /IM explorer.exe & start explorer` in cmd to restart Windows Explorer.exe
 
 
-![image](https://user-images.githubusercontent.com/25332460/188941740-ad2de695-ae10-4dbe-b3ee-842c6c6643dc.png)
 
 
 
