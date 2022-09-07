@@ -69,9 +69,7 @@ Press the Windows + R keys to open the Run dialog box.
 
 Type `powershell` and then press Enter.
 
-`powercfg -duplicatescheme 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c`
-
-Now it shows in Control Panel
+Type `powercfg -duplicatescheme 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c` in Powershell and press Enter.
 
 _______________________________________________________________________________________________________________________________________________________
 
