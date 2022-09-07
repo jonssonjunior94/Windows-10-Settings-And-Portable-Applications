@@ -91,7 +91,7 @@ Type `Regedit` and then press Enter.
 
 Look for `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced`
 
-Right-click the “Advanced” key in the left pane and select New > DWORD (32-bit) Value.
+Right-click the “Advanced” key in the left panel and select New > DWORD (32-bit) Value.
 
 ![image](https://user-images.githubusercontent.com/25332460/188941115-dd8e3244-75e1-49a9-b266-40144f98bcf2.png)
 
