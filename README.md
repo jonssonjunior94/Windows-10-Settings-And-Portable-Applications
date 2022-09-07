@@ -104,6 +104,7 @@ Double-click the value you just created, enter a value data of `1` and click OK.
 You can now close the Registry Editor. You will have to sign out and sign back in again before your changes will take effect.
 
 ![image](https://user-images.githubusercontent.com/25332460/188941597-b056ad3a-422b-4c44-b110-6a2f58241f94.png)
+![image](https://user-images.githubusercontent.com/25332460/188941740-ad2de695-ae10-4dbe-b3ee-842c6c6643dc.png)
 
 
 
