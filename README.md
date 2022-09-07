@@ -91,6 +91,14 @@ Type `Regedit` and then press Enter.
 
 Look for `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced`
 
+Right-click the “Advanced” key in the left pane and select New > DWORD (32-bit) Value.
+
+Name the value ShowSecondsInSystemClock and press Enter.
+
+Double-click the value you just created, enter a value data of 1, and click OK.
+
+You can now close the Registry Editor. You will have to sign out and sign back in again before your changes will take effect.
+
 
 
 To restart explorer:
