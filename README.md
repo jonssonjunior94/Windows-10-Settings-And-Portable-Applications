@@ -92,12 +92,17 @@ Type `Regedit` and then press Enter.
 Look for `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced`
 
 Right-click the “Advanced” key in the left pane and select New > DWORD (32-bit) Value.
+
 ![image](https://user-images.githubusercontent.com/25332460/188941115-dd8e3244-75e1-49a9-b266-40144f98bcf2.png)
 
 
 Name the value `ShowSecondsInSystemClock` and press Enter.
 
+![image](https://user-images.githubusercontent.com/25332460/188942134-c946af69-ace8-495c-b4fc-4ee5dc3b0bf5.png)
+
+
 Double-click the value you just created, enter a value data of `1` and click OK.
+
 ![image](https://user-images.githubusercontent.com/25332460/188941507-a2b2548b-174e-410b-bf88-eb96dff227e2.png)
 
 
