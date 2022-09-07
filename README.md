@@ -98,6 +98,9 @@ Right-click the “Advanced” key in the left pane and select New > DWORD (32-b
 
 Name the value `ShowSecondsInSystemClock` and press Enter.
 
+![image](https://user-images.githubusercontent.com/25332460/188942366-19ff5571-dffb-4853-afce-758c6ae96b57.png)
+
+
 ![image](https://user-images.githubusercontent.com/25332460/188942134-c946af69-ace8-495c-b4fc-4ee5dc3b0bf5.png)
 
 
