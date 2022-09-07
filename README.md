@@ -41,6 +41,7 @@
 
 _______________________________________________________________________________________________________________________________________________________
 
+
 ### Performance Options
 
 Press the Windows + R keys to open the Run dialog box.
@@ -51,7 +52,9 @@ Copy these settings:
 
 ![image](https://user-images.githubusercontent.com/25332460/188121561-56314c8e-6644-4251-97d0-81d018cb137c.png)
 
+
 _______________________________________________________________________________________________________________________________________________________
+
 
 ### Power Options
 
@@ -71,7 +74,9 @@ Type `powershell` and then press Enter.
 
 Type `powercfg -duplicatescheme 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c` in Powershell and press Enter.
 
+
 _______________________________________________________________________________________________________________________________________________________
+
 
 ### Mouse Properties
 
@@ -86,6 +91,7 @@ Click the "Pointer Options" tab and unclick "Enhance pointer speed"
 ![rundll32_c59SKJeOTp](https://user-images.githubusercontent.com/25332460/188221061-d85f4c16-c487-4e4c-89d7-ffe48c0c49c2.jpg)
 
 Done.
+
 
 _______________________________________________________________________________________________________________________________________________________
 
