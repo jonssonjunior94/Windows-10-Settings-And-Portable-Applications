@@ -2,7 +2,7 @@
 
 - ##### Windows Settings
   - [Performance Options](#performance-options) - Remove Animations.
-  - [High Performance Power Plan](#high-performance-power-plan) - Lets your PC use more energy.
+  - [Power Options](#power-options) - Lets your PC use more energy.
   - [Mouse Properties](#mouse-properties) - Remove the feature that calculates the velocity of the mouse and adjusts the DPI.
 
    ##### Registry Hacks
@@ -54,7 +54,7 @@ Copy these settings:
 _______________________________________________________________________________________________________________________________________________________
 
 
-### High Performance Power Plan
+### Power Options
 
 Press the Windows + R keys to open the Run dialog box.
 
