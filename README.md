@@ -89,6 +89,9 @@ Press the Windows + R keys to open the Run dialog box.
 
 Type `Regedit` and then press Enter.
 
+Look for `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced`
+
+
 
 To restart explorer:
 Press the Windows + R keys to open the Run dialog box.
