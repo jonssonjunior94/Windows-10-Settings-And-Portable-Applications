@@ -51,6 +51,21 @@ Copy these settings:
 
 ![image](https://user-images.githubusercontent.com/25332460/188121561-56314c8e-6644-4251-97d0-81d018cb137c.png)
 
+If it isnt an alternative you can manually add High Performance plan
+
+Press the Windows + R keys to open the Run dialog box.
+
+Type `powershell` and then press Enter.
+
+`powercfg -duplicatescheme 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c`
+
+Now it shows in Control Panel
+
+
+
+
+
+
 _______________________________________________________________________________________________________________________________________________________
 
 
