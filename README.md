@@ -109,7 +109,7 @@ Double-click the value you just created, enter a value data of `1` and click OK.
 ![image](https://user-images.githubusercontent.com/25332460/188941507-a2b2548b-174e-410b-bf88-eb96dff227e2.png)
 
 
-You can now close the Registry Editor. You will have to sign out and sign back in again or
+You can now close the Registry Editor. You will have to sign out and sign back in again or the following:
 
 Press the Windows + R keys to open the Run dialog box.
 
