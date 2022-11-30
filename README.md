@@ -1,7 +1,7 @@
 ### Windows Settings
 
 - ##### Windows Settings
-  - [Require UAC Passwords on Administrator Account] - Promt password for every approval.
+  - [Require UAC Password even on Administrator Account] - Promt password for every approval.
   - [Performance Options](#performance-options) - Remove Animations.
   - [Power Options](#power-options) - Lets your PC use more energy. ( Balanced is better )
   - [Mouse Properties](#mouse-properties) - Remove the feature that calculates the velocity of the mouse and adjusts the DPI.
@@ -154,7 +154,7 @@ Press the Windows + R keys to open the Run dialog box.
 
 _______________________________________________________________________________________________________________________________________________________
 
-### Require UAC Passwords on Administrator Account
+### Require UAC Password even on Administrator Account
 
 
 
