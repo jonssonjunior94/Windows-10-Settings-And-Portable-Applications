@@ -154,7 +154,7 @@ Press the Windows + R keys to open the Run dialog box.
 
 _______________________________________________________________________________________________________________________________________________________
 
-### Require UAC Password even on Administrator Account
+### Require UAC Password
 
 
 
