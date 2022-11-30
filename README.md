@@ -1,12 +1,13 @@
 ### Windows Settings
 
 - ##### Windows Settings
-  - [Require UAC Password](#require-uac-password) - Promt password for every approval. Even as Administrator.
+
   - [Performance Options](#performance-options) - Remove Animations.
   - [Power Options](#power-options) - Lets your PC use more energy. ( Balanced is better )
   - [Mouse Properties](#mouse-properties) - Remove the feature that calculates the velocity of the mouse and adjusts the DPI.
 
    ##### Registry Hacks
+  - [Require UAC Password](#require-uac-password) - Promt password for every approval. Even as Administrator.
   - [Taskbar Clock](#taskbar-clock) - Show Seconds.
   - [Context Menu](#context-menu) - Add Any Application to the Windows Desktop Right-Click Menu.
 
