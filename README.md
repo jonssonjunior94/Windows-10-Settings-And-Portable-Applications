@@ -49,6 +49,7 @@
 - [Ublock Origin](https://ublockorigin.com/) - Free and open-source browser extension for content filtering, ad blocking. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 - [SponsorBlock](https://sponsor.ajay.app/) - SponsorBlock is a crowdsourced extension that lets anyone submit the start and end times of sponsored segments and other segments of YouTube videos [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/), [Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en)
 
+
 _______________________________________________________________________________________________________________________________________________________
 
 
@@ -64,7 +65,7 @@ Copy these settings:
 
 And click Ok.
 
-  
+
 _______________________________________________________________________________________________________________________________________________________
 
 
@@ -104,7 +105,7 @@ Click the "Pointer Options" tab and unclick "Enhance pointer speed"
 
 And click Ok.
 
-&emsp
+
 _______________________________________________________________________________________________________________________________________________________
 
 
@@ -145,15 +146,6 @@ Then type `taskkill /F /IM explorer.exe & start explorer` in cmd to restart Wind
 And click Ok.
 
 
-
-
-
-
-
-
-
-
-
 _______________________________________________________________________________________________________________________________________________________
 
 ### Require UAC Password
@@ -173,5 +165,6 @@ And set the value to `3`. (Default value is `5`)
 ![regedit_Seezn86Crb](https://user-images.githubusercontent.com/25332460/204880315-10c1a541-711c-4140-9cec-6a9f2ac5a491.png)
 
 And click Ok.
+
 
 _______________________________________________________________________________________________________________________________________________________
