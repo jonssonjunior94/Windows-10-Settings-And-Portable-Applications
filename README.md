@@ -44,12 +44,12 @@
 - [VirusTotal](https://www.virustotal.com/gui/home/upload) Free service that analyzes files and URLs for viruses. It's not advisable to upload sensitive/personal files.
 
 #### Browser Extensions
-- [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking.
+[Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking.
 ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/), [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)
 
 &nbsp;
 
-- [Ublock Origin](https://ublockorigin.com/) - Free and open-source browser extension for content filtering, ad blocking. 
+[Ublock Origin](https://ublockorigin.com/) - Free and open-source browser extension for content filtering, ad blocking. 
 ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 
 &nbsp;
