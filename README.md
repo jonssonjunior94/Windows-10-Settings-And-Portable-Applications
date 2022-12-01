@@ -46,16 +46,21 @@
 #### Browser Extensions
 - [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking.
 ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/), [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)
+
 &nbsp;
-- [Imagus]() - With a simple mouse-over you can enlarge images and display images/videos from links. 
-##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/imagus/), [Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=en)
-&nbsp;
+
 - [Ublock Origin](https://ublockorigin.com/) - Free and open-source browser extension for content filtering, ad blocking. 
 ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
+
 &nbsp;
+
 - [SponsorBlock](https://sponsor.ajay.app/) - SponsorBlock is a crowdsourced extension that lets anyone submit the start and end times of sponsored segments and other segments of YouTube videos 
 ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/), [Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en)
 
+&nbsp;
+
+- [Imagus]() - With a simple mouse-over you can enlarge images and display images/videos from links. 
+##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/imagus/), [Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=en)
 
 _______________________________________________________________________________________________________________________________________________________
 
