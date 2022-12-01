@@ -42,7 +42,7 @@
 - [Have i been pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach. Only knows publicly discovered breaches.
 
 ##### Browser Extensions
-- Decentraleyes [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) Protects privacy by evading large delivery networks that claim to offer free services.
+- Decentraleyes - Protects privacy by evading large delivery networks that claim to offer free services.  [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)
 - [Firefox]() [Chrome]()
 - [Firefox]() [Chrome]()
 - [Firefox]() [Chrome]()
