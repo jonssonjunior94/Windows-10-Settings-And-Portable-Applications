@@ -49,7 +49,7 @@
 
 &nbsp;
 
-[Ublock Origin](https://ublockorigin.com/) - Free and open-source browser extension for content filtering, ad blocking. 
+> [Ublock Origin](https://ublockorigin.com/) - Free and open-source browser extension for content filtering, ad blocking. 
 ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 
 &nbsp;
