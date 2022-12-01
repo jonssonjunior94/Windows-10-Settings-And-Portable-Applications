@@ -9,7 +9,7 @@
    ##### Registry Hacks
   - [Taskbar Clock](#taskbar-clock) - Show Seconds.
   - [Context Menu](#context-menu) - Add Any Application to the Windows Desktop Right-Click Menu.
-  - [Require UAC Password](#require-uac-password) - Promt password for every approval. Even as Administrator.
+  - [Require UAC Password](#require-uac-password) - Promt password for every approval. Even as Administrator. Further steps to stop malicious program or malware to find ways to obtain admin privileges.
 
 
 <!-- vim-markdown-toc -->
