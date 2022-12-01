@@ -45,25 +45,28 @@
 
 #### Browser Extensions
 [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking.
+
 > ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/), [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)
 
 &nbsp;
 
 [Ublock Origin](https://ublockorigin.com/) - uBlock Origin is one of the safest and most trustworthy content filtering add-ons available. It's open-source and transparent.
+
 > ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 
 &nbsp;
 
 [SponsorBlock](https://sponsor.ajay.app/) - SponsorBlock is a free and open-source browser extension designed to skip sponsorship segments in YouTube videos. The extension relies on a user-submitted database to identify sponsorships in videos. Extension users can submit segments in videos and vote on segments others have submitted.
 
-&nbsp;
-
 > ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/), [Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en)
 
 &nbsp;
 
 [Imagus]() - With a simple mouse-over you can enlarge images and display images/videos from links. 
+
 > ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/imagus/), [Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=en)
+
+&nbsp;
 
 _______________________________________________________________________________________________________________________________________________________
 
