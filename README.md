@@ -41,6 +41,11 @@
 - [Redirect Detective](https://redirectdetective.com/) - URL redirection checker, see the complete path a redirected URL goes through.
 - [Have i been pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach. Only knows publicly discovered breaches.
 
+##### Browser Extensions
+- Decentraleyes [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) Protects privacy by evading large delivery networks that claim to offer free services.
+- [Firefox]() [Chrome]()
+- [Firefox]() [Chrome]()
+- [Firefox]() [Chrome]()
 
 _______________________________________________________________________________________________________________________________________________________
 
