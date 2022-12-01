@@ -100,7 +100,7 @@ Click the "Pointer Options" tab and unclick "Enhance pointer speed"
 
 ![rundll32_c59SKJeOTp](https://user-images.githubusercontent.com/25332460/188221061-d85f4c16-c487-4e4c-89d7-ffe48c0c49c2.jpg)
 
-Done.
+And click Ok.
 
 
 _______________________________________________________________________________________________________________________________________________________
