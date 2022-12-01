@@ -54,7 +54,10 @@
 
 &nbsp;
 
-[SponsorBlock](https://sponsor.ajay.app/) - SponsorBlock is a crowdsourced extension that lets anyone submit the start and end times of sponsored segments and other segments of YouTube videos 
+[SponsorBlock](https://sponsor.ajay.app/) - SponsorBlock is a free and open-source browser extension designed to skip sponsorship segments in YouTube videos. The extension relies on a user-submitted database to identify sponsorships in videos. Extension users can submit segments in videos and vote on segments others have submitted.
+
+&nbsp;
+
 > ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/), [Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en)
 
 &nbsp;
