@@ -42,7 +42,7 @@
 - [Have i been pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach. Only knows publicly discovered breaches.
 
 #### Browser Extensions
-- [Decentraleyes] - Protects privacy by evading large delivery networks that claim to offer free services.  [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/), [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)
+- Decentraleyes - Protects privacy by evading large delivery networks that claim to offer free services.  [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/), [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)
 - Imagus - With a simple mouse-over you can enlarge images and display images/videos from links. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/imagus/), [Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=en)
 - [Firefox](), [Chrome]()
 - [Firefox](), [Chrome]()
