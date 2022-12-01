@@ -154,11 +154,11 @@ Type `Regedit` and then press Enter.
 
 Look for `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System`
 
-Double-click “ConsentPromptBehaviorAdmin” 
+Double-click `ConsentPromptBehaviorAdmin`
 
 ![regedit_K4dIJafjCK](https://user-images.githubusercontent.com/25332460/204880320-fe3e242e-fe7a-4e16-8d98-fdbc5a451c99.png)
 
-And set the value to `3`. (The default value is `5`)
+And set the value to `3`. (Default value is `5`)
 
 ![regedit_Seezn86Crb](https://user-images.githubusercontent.com/25332460/204880315-10c1a541-711c-4140-9cec-6a9f2ac5a491.png)
 
