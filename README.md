@@ -42,10 +42,10 @@
 - [Have i been pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach. Only knows publicly discovered breaches.
 
 #### Browser Extensions
-- Decentraleyes - Protects privacy by evading large delivery networks that claim to offer free services.  [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/), [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)
-- Imagus - With a simple mouse-over you can enlarge images and display images/videos from links. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/imagus/), [Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=en)
-- Ublock Origin - Free and open-source browser extension for content filtering, including ad blocking. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
-- SponsorBlock - SponsorBlock is a crowdsourced browser extension that lets anyone submit the start and end times of sponsored segments and other segments of YouTube videos [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/), [Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en)
+- [Decentraleyes](https://decentraleyes.org/) - Protects privacy by evading large delivery networks that claim to offer free services.  [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/), [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)
+- []()Imagus - With a simple mouse-over you can enlarge images and display images/videos from links. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/imagus/), [Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=en)
+- [Ublock Origin](https://ublockorigin.com/) - Free and open-source browser extension for content filtering, including ad blocking. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
+- [SponsorBlock](https://sponsor.ajay.app/) - SponsorBlock is a crowdsourced browser extension that lets anyone submit the start and end times of sponsored segments and other segments of YouTube videos [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/), [Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en)
 
 _______________________________________________________________________________________________________________________________________________________
 
