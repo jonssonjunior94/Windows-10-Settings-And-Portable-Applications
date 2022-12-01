@@ -34,7 +34,6 @@
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes. Works great with [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui).
 - [Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for [Streamlink](https://github.com/streamlink/streamlink). Works great with [VLC](https://www.videolan.org/vlc/download-windows.html).
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly. Plus [Everything Toolbar](https://github.com/stnkl/EverythingToolbar) for the taskbar.
-- [Motrix](https://github.com/agalwood/Motrix) Motrix is a download manager that supports downloading HTTP, FTP, BitTorrent and Magnet.
 
 #### Useful Websites
 - [Send](https://github.com/timvisee/send-instances/#instances) - Share encrypted files with ease.
