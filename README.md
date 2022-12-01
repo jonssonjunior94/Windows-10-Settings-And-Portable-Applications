@@ -43,9 +43,9 @@
 
 #### Browser Extensions
 - [Decentraleyes](https://decentraleyes.org/) - Protects privacy by evading large delivery networks that claim to offer free services.  [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/), [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)
-- [Firefox]() [Chrome]()
-- [Firefox]() [Chrome]()
-- [Firefox]() [Chrome]()
+- Imagus - With a simple mouse-over you can enlarge images and display images/videos from links. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/imagus/), [Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=en)
+- [Firefox](), [Chrome]()
+- [Firefox](), [Chrome]()
 
 _______________________________________________________________________________________________________________________________________________________
 
