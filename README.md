@@ -44,7 +44,7 @@
 - [VirusTotal](https://www.virustotal.com/gui/home/upload) Free service that analyzes files and URLs for viruses. It's not advisable to upload sensitive/personal files.
 
 #### Browser Extensions
-- [Decentraleyes](https://decentraleyes.org/) - Protects privacy by evading large delivery networks that claim to offer free services. 
+- [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking.
 ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/), [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)
 &nbsp;
 - [Imagus]() - With a simple mouse-over you can enlarge images and display images/videos from links. 
