@@ -43,8 +43,8 @@
 - [Gmailnator](https://www.emailnator.com/) - Temporary Disposable Gmail.
 - [Redirect Detective](https://redirectdetective.com/) - URL redirection checker, see the complete path a redirected URL goes through.
 - [Have i been pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach. Only knows publicly discovered breaches.
-- [IsThereAnyDeal](https://isthereanydeal.com/?currency=USD) A useful little web tool that tracks PC game prices across a variety of sources, including Steam.
-- [VirusTotal](https://www.virustotal.com/gui/home/upload) Free service that analyzes files and URLs for viruses. It's not advisable to upload sensitive/personal files.
+- [IsThereAnyDeal](https://isthereanydeal.com/?currency=USD) - A useful little web tool that tracks PC game prices across a variety of sources, including Steam.
+- [VirusTotal](https://www.virustotal.com/gui/home/upload) - Free service that analyzes files and URLs for viruses. It's not advisable to upload sensitive/personal files.
 
 #### Browser Extensions
 [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking.
