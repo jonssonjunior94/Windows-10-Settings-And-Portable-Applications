@@ -81,6 +81,8 @@ ________________________________________________________________________________
 
 &nbsp;
 
+&nbsp;
+
 ### Performance Options
 
 Press the Windows + R keys to open the Run dialog box.
