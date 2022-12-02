@@ -55,19 +55,15 @@
 
 > ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/), [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/decentraleyes/lmijmgnfconjockjeepmlmkkibfgjmla)
 
-
+_______________________________________________________________________________________________________________________________________________________
 
 [Ublock Origin](https://ublockorigin.com/) - uBlock Origin is one of the safest and most trustworthy content filtering add-ons available. It's open-source and transparent.
-
-_______________________________________________________________________________________________________________________________________________________
 
 > ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
 
 _______________________________________________________________________________________________________________________________________________________
 
 [SponsorBlock](https://sponsor.ajay.app/) - SponsorBlock is a free and open-source browser extension designed to skip sponsorship segments in YouTube videos. The extension relies on a user-submitted database to identify sponsorships in videos. Extension users can submit segments in videos and vote on segments others have submitted.
-
-_______________________________________________________________________________________________________________________________________________________
 
 > ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/), [Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/sponsorblock-for-youtube-/mbmgnelfcpoecdepckhlhegpcehmpmji)
 
