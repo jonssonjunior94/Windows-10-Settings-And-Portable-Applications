@@ -34,8 +34,8 @@
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes. Works great with [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui).
 - [Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for [Streamlink](https://github.com/streamlink/streamlink). Works great with [VLC](https://www.videolan.org/vlc/download-windows.html).
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly. Plus [Everything Toolbar](https://github.com/stnkl/EverythingToolbar) for the taskbar.
-- [SuperSlicer](https://github.com/supermerill/SuperSlicer) SuperSlicer was developed to provide users with more control over their slicer than what was possible with PrusaSlicer.
-- [NVIDIA Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector) Nvidia Profile Inspector (NPI) is an open source third-party tool created for pulling up and editing application profiles within the Nvidia display drivers.
+- [SuperSlicer](https://github.com/supermerill/SuperSlicer) - SuperSlicer was developed to provide users with more control over their slicer than what was possible with PrusaSlicer.
+- [NVIDIA Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Nvidia Profile Inspector (NPI) is an open source third-party tool created for pulling up and editing application profiles within the Nvidia display drivers.
 
 
 #### Useful Websites
