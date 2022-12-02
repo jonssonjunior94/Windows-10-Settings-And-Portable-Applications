@@ -38,6 +38,7 @@
 - [SuperSlicer](https://github.com/supermerill/SuperSlicer) - SuperSlicer was developed to provide users with more control over their slicer than what was possible with PrusaSlicer.
 - [NVIDIA Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Nvidia Profile Inspector (NPI) is an open source third-party tool created for pulling up and editing application profiles within the Nvidia display drivers.
 
+&nbsp;
 
 #### Useful Websites
 - [Send](https://github.com/timvisee/send-instances/#instances) - Share encrypted files with ease.
