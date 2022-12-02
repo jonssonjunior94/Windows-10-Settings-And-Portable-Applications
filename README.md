@@ -47,7 +47,7 @@
 - [Have i been pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach. Only knows publicly discovered breaches.
 - [IsThereAnyDeal](https://isthereanydeal.com/?currency=USD) - A useful little web tool that tracks PC game prices across a variety of sources, including Steam.
 - [VirusTotal](https://www.virustotal.com/gui/home/upload) - Free service that analyzes files and URLs for viruses. It's not advisable to upload sensitive/personal files.
-- [Emulator ROMs](https://squid-proxy.xyz/) By [Naereen](https://github.com/Naereen)
+- [Emulator ROMs](https://squid-proxy.xyz/) 82,911 Files. By [Naereen](https://github.com/Naereen)
 
 &nbsp;
 
