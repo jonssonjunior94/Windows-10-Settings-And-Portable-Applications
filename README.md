@@ -1,6 +1,6 @@
 ### Windows Settings
 
-- ##### Windows Settings
+### Windows Settings
 
   - [Performance Options](#performance-options) - Remove Animations.
   - [Power Options](#power-options) - Lets your PC use more energy. (Balanced is better)
