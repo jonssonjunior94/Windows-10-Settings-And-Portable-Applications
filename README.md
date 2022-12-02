@@ -15,9 +15,7 @@
   - [Require UAC Password](#require-uac-password) - Promt password for every approval. Even as Administrator. Further steps to stop malicious programs or malware to find ways to obtain admin privileges.
 
 
-<!-- vim-markdown-toc -->
-
-
+&nbsp;
 
 
 ### Portable Applications
