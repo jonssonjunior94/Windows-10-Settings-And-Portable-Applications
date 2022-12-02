@@ -73,8 +73,6 @@ ________________________________________________________________________________
 
 > ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/imagus/), [Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=en)
 
-&nbsp;
-
 _______________________________________________________________________________________________________________________________________________________
 
 &nbsp;
