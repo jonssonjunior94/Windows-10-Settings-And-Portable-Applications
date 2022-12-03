@@ -36,7 +36,7 @@
 - [Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for [Streamlink](https://github.com/streamlink/streamlink). Works great with [VLC](https://www.videolan.org/vlc/download-windows.html).
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly. Plus [Everything Toolbar](https://github.com/stnkl/EverythingToolbar) for the taskbar.
 - [SuperSlicer](https://github.com/supermerill/SuperSlicer) - Developed to provide users more control over their slicer than what was possible with PrusaSlicer.
-- [NVIDIA Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - (NPI) is an open source third-party tool created for pulling up and editing application profiles within the Nvidia display drivers.
+- [NVIDIA Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Is an open source third-party tool created for pulling up and editing application profiles within Nvidia display drivers.
 
 &nbsp;
 
