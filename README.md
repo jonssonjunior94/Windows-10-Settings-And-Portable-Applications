@@ -68,7 +68,7 @@
 
 > ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/), [Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/sponsorblock-for-youtube-/mbmgnelfcpoecdepckhlhegpcehmpmji)
 
-_______________________________________________________________________________________________________________________________________________________
+
 
 [Imagus]() - With a simple mouse-over you can enlarge images and display images/videos from links. 
 
