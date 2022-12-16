@@ -49,6 +49,13 @@
 - [VirusTotal](https://www.virustotal.com/gui/home/upload) - Free service that analyzes files and URLs for viruses. It's not advisable to upload sensitive/personal files.
 
 #### Emulators and ROMs
+
+- [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) (Nintendo Switch) [ROMs 1](https://vimm.net/vault/GameCube)
+- [PCSX2](https://github.com/PCSX2/pcsx2) (Playstation 2) [ROMs](https://github.com/yuzu-emu/yuzu-mainline) (Nintendo Switch) 
+- [Dolphin](https://github.com/dolphin-emu/dolphin) (GameCube / Wii) [ROMs 1](https://vimm.net/vault/GameCube) [ROMs 2](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/) 
+
+
+
 - [Emulator ROMs](https://squid-proxy.xyz/) (82,911 Files, 63.79 TiB.)
 
 &nbsp;
