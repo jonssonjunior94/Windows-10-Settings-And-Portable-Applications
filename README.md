@@ -48,7 +48,7 @@
 - [IsThereAnyDeal](https://isthereanydeal.com/?currency=USD) - A useful little web tool that tracks PC game prices across a variety of sources, including Steam.
 - [VirusTotal](https://www.virustotal.com/gui/home/upload) - Free service that analyzes files and URLs for viruses. It's not advisable to upload sensitive/personal files.
 
-#### Emulators and ROMs
+#### Emulators and ROMs ( Not Done )
 
 - [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) (Nintendo Switch) [ROMs 1](https://vimm.net/vault/GameCube)
 - [PCSX2](https://github.com/PCSX2/pcsx2) (Playstation 2) [ROMs](https://github.com/yuzu-emu/yuzu-mainline) (Nintendo Switch) 
