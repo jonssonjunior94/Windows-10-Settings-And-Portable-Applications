@@ -49,9 +49,7 @@
 - [VirusTotal](https://www.virustotal.com/gui/home/upload) - Free service that analyzes files and URLs for viruses. It's not advisable to upload sensitive/personal files.
 
 #### Emulators and ROMs ( Not Done )
-
 - [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) (Nintendo Switch) To make Yuzu portable make a folder names "user" inside the installation directory.
-- [PCSX2](https://github.com/PCSX2/pcsx2) (Playstation 2) [ROMs](https://github.com/yuzu-emu/yuzu-mainline) (Nintendo Switch) 
 - [Dolphin](https://github.com/dolphin-emu/dolphin) (GameCube / Wii) To make Dolphin emulator portable make a txt file named "portable" inside the installation directory.
 
 
