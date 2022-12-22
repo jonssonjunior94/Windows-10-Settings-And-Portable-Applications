@@ -50,9 +50,9 @@
 
 #### Emulators and ROMs ( Not Done )
 
-- [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) (Nintendo Switch) [ROMs 1](https://vimm.net/vault/GameCube) To make Yuzu portable make a folder names "user" inside the installation directory.
+- [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) (Nintendo Switch) To make Yuzu portable make a folder names "user" inside the installation directory.
 - [PCSX2](https://github.com/PCSX2/pcsx2) (Playstation 2) [ROMs](https://github.com/yuzu-emu/yuzu-mainline) (Nintendo Switch) 
-- [Dolphin](https://github.com/dolphin-emu/dolphin) (GameCube / Wii) [ROMs 1](https://vimm.net/vault/GameCube) [ROMs 2](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/) To make Dolphin emulator portable make a txt file named "portable" inside the installation directory.
+- [Dolphin](https://github.com/dolphin-emu/dolphin) (GameCube / Wii) To make Dolphin emulator portable make a txt file named "portable" inside the installation directory.
 
 
 
