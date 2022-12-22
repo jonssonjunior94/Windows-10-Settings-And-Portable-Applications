@@ -52,6 +52,7 @@
 - [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) - (Nintendo Switch) To make Yuzu portable create a folder named "user" inside the installation directory.
 - [Dolphin](https://dolphin-emu.org/download/) - (GameCube / Wii) To make Dolphin emulator portable create a .txt file named "portable" inside the installation directory.
 - [Cemu](https://wiki.cemu.info/wiki/Release_1.26.2f) (Wii U) - Cemu is already portable.
+
 - ROMs - [1](https://myrient.erista.me/files/Redump/) - [2](https://vimm.net/)
 
 &nbsp;
