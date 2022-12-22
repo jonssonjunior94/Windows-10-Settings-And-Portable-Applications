@@ -68,19 +68,19 @@
 
 > ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
 
-_______________________________________________________________________________________________________________________________________________________
+&nbsp;
 
 [SponsorBlock](https://sponsor.ajay.app/) - SponsorBlock is a free and open-source browser extension designed to skip sponsorship segments in YouTube videos. The extension relies on a user-submitted database to identify sponsorships in videos. Extension users can submit segments in videos and vote on segments others have submitted.
 
 > ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/), [Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/sponsorblock-for-youtube-/mbmgnelfcpoecdepckhlhegpcehmpmji)
 
-_______________________________________________________________________________________________________________________________________________________
+&nbsp;
 
 [Imagus]() - With a simple mouse-over you can enlarge images and display images/videos from links. 
 
 > ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/imagus/), [Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=en)
 
-_______________________________________________________________________________________________________________________________________________________
+&nbsp;
 
 &nbsp;
 
