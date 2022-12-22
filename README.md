@@ -62,7 +62,7 @@
 
 > ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/), [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/decentraleyes/lmijmgnfconjockjeepmlmkkibfgjmla)
 
-_______________________________________________________________________________________________________________________________________________________
+&nbsp;
 
 [Ublock Origin](https://ublockorigin.com/) - uBlock Origin is one of the safest and most trustworthy content filtering add-ons available. It's open-source and transparent.
 
