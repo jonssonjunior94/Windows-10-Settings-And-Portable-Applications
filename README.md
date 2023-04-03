@@ -8,12 +8,13 @@
   - [Mouse Properties](#mouse-properties) - Remove the feature that calculates the velocity of the mouse and adjusts the DPI.
   - [Disable Fast Startup](#disable-fast-startup) 
 
-___________________________
 
    ##### Registry Hacks
   - [Taskbar Clock](#taskbar-clock) - Show Seconds.
   - [Context Menu](#context-menu) - Add Any Application to the Windows Desktop Right-Click Menu.
   - [Require UAC Password](#require-uac-password) - Promt password for every approval. Even as Administrator. Further steps to stop malicious programs or malware to find ways to obtain admin privileges.
+
+___
 
 &nbsp;
 
