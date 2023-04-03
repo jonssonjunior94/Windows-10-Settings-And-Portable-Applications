@@ -66,6 +66,12 @@ Disable "Clear Cookies" to save settings and login information at visited sites 
 &nbsp;
 
 ### Browser Extensions
+
+pw: 153
+[ClearURLs 1.26.0.crx](https://anonfiles.com/4a17I8i1z7/ClearURLs_1_26_0_crx)
+[]()
+[]()
+
 [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking.
 
 > ##### [Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/), [Chrome](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/decentraleyes/lmijmgnfconjockjeepmlmkkibfgjmla)
