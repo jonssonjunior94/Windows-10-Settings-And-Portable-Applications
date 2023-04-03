@@ -57,6 +57,13 @@
 
 &nbsp;
 
+### Browser
+[ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases) 
+
+&nbsp;
+
+&nbsp;
+
 ### Browser Extensions
 [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking.
 
