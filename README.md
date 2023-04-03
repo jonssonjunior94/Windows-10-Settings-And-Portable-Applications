@@ -66,8 +66,7 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 
 &nbsp;
 
-___
-
+&nbsp;
 
 &nbsp;
 
