@@ -71,9 +71,9 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 
 ##### Movies
 
-- [50TB Movie Collection 1](https://mega.nz/folder/iYQ3SYbA#_o9eO4o1eiCd8QsCTU7iUw/folder/2VZiQbpb)
-- [50TB Movie Collection 2](https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ/folder/v80UjRwJ)
-- [50TB Movie Collection 3](https://mega.nz/folder/01F2XbgA#u2Si5JL2Vd0hAd7sYU59ig/folder/9ws0VTDJ)
+- `[50TB Movie Collection 1](https://mega.nz/folder/iYQ3SYbA#_o9eO4o1eiCd8QsCTU7iUw/folder/2VZiQbpb)`
+- `[50TB Movie Collection 2](https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ/folder/v80UjRwJ)`
+- `[50TB Movie Collection 3](https://mega.nz/folder/01F2XbgA#u2Si5JL2Vd0hAd7sYU59ig/folder/9ws0VTDJ)`
 
 &nbsp;
 
