@@ -26,9 +26,9 @@ ___
 - [ShareX](https://github.com/ShareX/ShareX/releases) - Lets you take screenshots of any selected area with a single key.
 - [Discord portable](https://github.com/portapps/discord-portable) - Portable instead of the regular auto install.
 - [Open Hardware Monitor](https://openhardwaremonitor.org/downloads/) - Free open source software that monitors temperatures, fans, voltages, load and clock.
-- [Geek Uninstaller](https://geekuninstaller.com/) - Geek Uninstaller is a perfectly functional uninstaller. Also removes attached registry keys.
 - [Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases)
 Disable "Clear Cookies" to save settings and login information at visited sites. `chrome://settings/cookies`
+- [Geek Uninstaller](https://geekuninstaller.com/) - Geek Uninstaller is a perfectly functional uninstaller. Also removes attached registry keys.
 - [Notepad++](https://notepad-plus-plus.org/downloads/) - Notepad++ is a great replacement for Windows notepad. It's a good choice for beginners.
 - [VLC](https://www.videolan.org/vlc/download-windows.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files.
 
