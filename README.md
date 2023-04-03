@@ -43,6 +43,9 @@ ___
 
 ___
 
+
+&nbsp;
+
 #### Useful Websites
 - [Send](https://github.com/timvisee/send-instances/#instances) - Share encrypted files with ease.
 - [Gmailnator](https://www.emailnator.com/) - Temporary Disposable Gmail. (Use Adblock)
@@ -54,6 +57,9 @@ ___
 &nbsp;
 
 ___
+
+
+&nbsp;
 
 #### Emulators and ROMs
 - [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) - (Nintendo Switch) To make Yuzu portable create a folder named "user" inside the installation directory.
