@@ -57,9 +57,7 @@
 
 - [Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases)
 Disable "Clear Cookies" to save settings and login information at visited sites. `chrome://settings/cookies`
-
 - [Extensions](https://github.com/jonssonjunior94/Windows-10-Settings/releases/tag/Extensions) Personal backup of extensions. 
-
 - [Chrome Bookmarks Recovery Tool](https://rongjiecomputer.github.io/chrome/bookmark-recovery/#windows) Best way i have found to back up bookmarks from Chrome as a .html file to easily use with Ungoogled Chromium.
 
 #### Useful Websites
