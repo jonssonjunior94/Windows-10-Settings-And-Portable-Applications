@@ -72,13 +72,6 @@ ___
 
 &nbsp;
 
-### Browser
-
-
-&nbsp;
-
-&nbsp;
-
 ### Browser Extensions
 
 pw: 153
