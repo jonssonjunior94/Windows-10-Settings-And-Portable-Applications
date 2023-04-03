@@ -56,7 +56,7 @@
 ### Browser
 
 - [Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases)
-Disable "Clear Cookies" to save settings and login information at visited sites. ```chrome://settings/cookies```
+Disable "Clear Cookies" to save settings and login information at visited sites. `chrome://settings/cookies`
 - [Extensions](https://github.com/jonssonjunior94/Windows-10-Settings/releases/tag/Extensions) Personal backup of extensions. 
 - [Chrome Bookmarks Recovery Tool](https://rongjiecomputer.github.io/chrome/bookmark-recovery/#windows) Best way i have found to back up bookmarks from Google Chrome as a .html file to easily use with Ungoogled Chromium.
 
@@ -70,11 +70,11 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 - [NMHDDS](https://doyou.needmorehdd.space/?fileType=&query=chrome#) NMHDDS Google Open Directory Search Tool | Get direct download links to (almost) everything.
 
 ##### Movies
-```
+
 - [50TB Movie Collection 1](https://mega.nz/folder/iYQ3SYbA#_o9eO4o1eiCd8QsCTU7iUw/folder/2VZiQbpb)
 - [50TB Movie Collection 2](https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ/folder/v80UjRwJ)
 - [50TB Movie Collection 3](https://mega.nz/folder/01F2XbgA#u2Si5JL2Vd0hAd7sYU59ig/folder/9ws0VTDJ)
-```
+
 &nbsp;
 
 &nbsp;
