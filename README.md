@@ -14,6 +14,7 @@
   - [Context Menu](#context-menu) - Add Any Application to the Windows Desktop Right-Click Menu.
   - [Require UAC Password](#require-uac-password) - Promt password for every approval. Even as Administrator. Further steps to stop malicious programs or malware to find ways to obtain admin privileges.
 
+&nbsp;
 ___
 
 &nbsp;
@@ -39,6 +40,8 @@ ___
 - [NVIDIA Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Open source third-party tool created for pulling up and editing application profiles within Nvidia display drivers.
 
 &nbsp;
+
+___
 
 #### Useful Websites
 - [Send](https://github.com/timvisee/send-instances/#instances) - Share encrypted files with ease.
