@@ -56,8 +56,7 @@
 ### Browser
 
 - [Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases)
-Disable "Clear Cookies" to save settings and login information at visited sites. `chrome://settings/cookies`
-- [Ungoogled-Chromium Extensions](https://github.com/jonssonjunior94/Windows-10-Settings/releases/tag/Extensions)
+Disable "Clear Cookies" to save settings and login information at visited sites. `chrome://settings/cookies` [Extensions](https://github.com/jonssonjunior94/Windows-10-Settings/releases/tag/Extensions)
 
 #### Useful Websites
 - [Send](https://github.com/timvisee/send-instances/#instances) - Share encrypted files with ease.
