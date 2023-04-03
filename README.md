@@ -58,7 +58,8 @@
 &nbsp;
 
 ### Browser
-[ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases) 
+[Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases)
+Disable "Clear Cookies" to save settings at visited sites `chrome://settings/cookies` Enabled by default on ungoogled-chromium and will log you out of all your accounts.
 
 &nbsp;
 
