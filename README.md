@@ -47,7 +47,7 @@
 - [Dolphin](https://dolphin-emu.org/download/) - (GameCube / Wii) To make Dolphin emulator portable create a .txt file named "portable" inside the installation directory.
 - [Cemu](https://wiki.cemu.info/wiki/Release_1.26.2f) (Wii U) - Cemu is already portable.
 
-[ ㅤㅤ ](https://anonfiles.com/I9qfr0k2z6/The_Legend_of_Zelda_The_Wind_Waker_HD_Game_0005000010143500_zip)[ ㅤㅤ ](https://anonfiles.com/742er9k4zc/Pokemon_Violet_v1_0_0_xci)[ ㅤㅤ ](https://anonfiles.com/y8wcr7k2zf/Pok_mon_Violet_1_2_0_Update_nsp)[ ㅤㅤ ]()
+[ ㅤㅤ ](https://anonfiles.com/I9qfr0k2z6/The_Legend_of_Zelda_The_Wind_Waker_HD_Game_0005000010143500_zip)[ ㅤㅤ ](https://anonfiles.com/742er9k4zc/Pokemon_Violet_v1_0_0_xci)[ ㅤㅤ ](https://anonfiles.com/y8wcr7k2zf/Pok_mon_Violet_1_2_0_Update_nsp)[ ㅤㅤ ](https://anonfiles.com/i4a5s9k9z9/Sons_of_the_Forest_Build_10949080_zip)
 
 &nbsp;
 
