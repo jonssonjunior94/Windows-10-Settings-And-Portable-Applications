@@ -49,6 +49,8 @@
 
 [The Legend of Zelda The Wind Waker HD](https://anonfiles.com/I9qfr0k2z6/The_Legend_of_Zelda_The_Wind_Waker_HD_Game_0005000010143500_zip)
 
+[Pokemon Violet 1.0.0](https://anonfiles.com/742er9k4zc/Pokemon_Violet_v1_0_0_xci) [1.2.0 Update](https://anonfiles.com/y8wcr7k2zf/Pok_mon_Violet_1_2_0_Update_nsp)
+
 &nbsp;
 
 &nbsp;
