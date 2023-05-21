@@ -43,7 +43,7 @@
 - [NVIDIA Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Open source third-party tool created for pulling up and editing application profiles within Nvidia display drivers.
 
 ##### Emulators and ROMs
-- [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) - (Nintendo Switch) To make Yuzu portable create a folder named "user" inside the installation directory. [Early Access](https://github.com/pineappleEA/pineapple-src/releases****) 
+- [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) - (Nintendo Switch) To make Yuzu portable create a folder named "user" inside the installation directory. [Early Access](https://github.com/pineappleEA/pineapple-src/releases) Releases.
 - [Dolphin](https://dolphin-emu.org/download/) - (GameCube / Wii) To make Dolphin emulator portable create a .txt file named "portable" inside the installation directory.
 - [Cemu](https://wiki.cemu.info/wiki/Release_1.26.2f) (Wii U) - Cemu is already portable.
 
