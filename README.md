@@ -37,7 +37,7 @@
 ##### Extras (Still Portable)
 - [Scrcpy](https://github.com/Genymobile/scrcpy) - This application provides display and control of Android devices connected via USB.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes. Works great with [yt-dl-gui](https://github.com/oleksis/youtube-dl-gui).
-  Also [FFmpeg.](https://github.com/BtbN/FFmpeg-Builds/releases) copy the bin folder content to the folder that yt-dlp.exe is located at `(ffprobe, ffplay and ffmpeg)`. Settings to download with h264 or h265 codec `$ yt-dlp -f "(bv*[vcodec~='^((he|a)vc|h26[45])']+ba) / (bv*+ba/b)"` And Filename Format `%(autonumber)02d. %(title)s` to work great with Plex.
+  Also [FFmpeg.](https://github.com/BtbN/FFmpeg-Builds/releases) copy the bin folder content to the folder that yt-dlp.exe is located at `(ffprobe, ffplay and ffmpeg)`. Settings to download with h264 or h265 codec `$ yt-dlp -f "(bv*[vcodec~='^((he|a)vc|h26[45])']+ba) / (bv*+ba/b)"` And Filename Format `%(autonumber)02d. %(title)s` to work with Plex.
 - [Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for [Streamlink](https://github.com/streamlink/streamlink). Works great with [VLC](https://www.videolan.org/vlc/download-windows.html).
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly. Plus [Everything Toolbar](https://github.com/stnkl/EverythingToolbar) for the taskbar.
 - [SuperSlicer](https://github.com/supermerill/SuperSlicer) - Developed to provide users more control over their slicer than what was possible with PrusaSlicer.
