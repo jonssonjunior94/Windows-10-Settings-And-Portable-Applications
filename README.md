@@ -89,6 +89,8 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 - [NMHDDS](https://doyou.needmorehdd.space/?fileType=&query=chrome#) NMHDDS Google Open Directory Search Tool. Get direct download links to (almost) anything.
 - [Test Ad Block](https://d3ward.github.io/toolz/adblock.html) This tool allows you to check if your adblock solution is blocking enough hosts.
 
+
+
 - [dnscheck.tools](https://dnscheck.tools/) Identifies your DNS resolvers, checks DNSSEC validation, and more.
 - [ipaddr.tools](https://myip.addr.tools/help) get your public IP address.
 - [RDAP data](https://info.addr.tools/me) Displays relevant DNS records and RDAP registration data.
