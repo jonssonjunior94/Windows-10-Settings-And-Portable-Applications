@@ -65,6 +65,8 @@
 
 ### Browser
 
+. [Firefox](https://ftp.mozilla.org/pub/firefox/releases/) Extras: [Compact Mode](https://ftp.mozilla.org/pub/firefox/releases/) [Firefox Profilemaker](https://ffprofile.com/)
+
 - [Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases)
 Disable "Clear Cookies" to save settings and login information at visited sites. `chrome://settings/cookies`
 - [Extensions](https://github.com/jonssonjunior94/Windows-10-Settings/releases/tag/Extensions) Personal backup of extensions. 
