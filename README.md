@@ -49,13 +49,14 @@
 - [Cemu](https://wiki.cemu.info/wiki/Release_1.26.2f) (Wii U) - Cemu is already portable.
 
 ##### Adguard DNS Blocklists
-- [hBlock - Adblock](https://hblock.molinero.dev/hosts_adblock.txt)
-- [HaGeZi's Blocklist - Big Broom](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt) 
-- [OISD BIG - Blocklist](https://big.oisd.nl)
-- [ph00lt0 - Blocklist](https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt)
-- [SomeoneWhoCares Host](https://someonewhocares.org/hosts/hosts)
-- [WindowsSpyBlocker - Hosts spy rules](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
+- [Crazy Max's WindowsSpyBlocker - Hosts spy rules](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
+- [HaGeZi's Blocklist - Big Broom](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt)
+- [HaGeZi's DoH/VPN/TOR/Proxy Bypass - Prevent methods to bypass your DNS](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt)
+- [HaGeZi's Threat Intelligence Feeds](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt)
 - [HaGeZi's Windows/Office Tracker DNS Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.winoffice.txt)
+- [hBlock - Adblock](https://hblock.molinero.dev/hosts_adblock.txt)
+- [OISD BIG - Blocklist](https://big.oisd.nl/)
+- [Someone Who Cares](https://someonewhocares.org/hosts/zero/hosts)
 
 &nbsp;
 
