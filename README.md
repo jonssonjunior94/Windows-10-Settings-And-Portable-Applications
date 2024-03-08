@@ -70,6 +70,7 @@
 - [Mozilla FTP](https://ftp.mozilla.org/pub/firefox/releases/) 
 - [Firefox Profilemaker](https://ffprofile.com/) Tool to create a Firefox profile with the defaults you like.
 - Extras: [Compact Mode](https://support.mozilla.org/en-US/kb/compact-mode-workaround-firefox)
+- Addons: [uBlock Origin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/) [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) 
 
 #### Chrome
 
