@@ -67,7 +67,9 @@
 
 #### Firefox
 
-- [Mozilla FTP](https://ftp.mozilla.org/pub/firefox/releases/) Extras: [Compact Mode](https://support.mozilla.org/en-US/kb/compact-mode-workaround-firefox) [Firefox Profilemaker](https://ffprofile.com/)
+- [Mozilla FTP](https://ftp.mozilla.org/pub/firefox/releases/) 
+- [Firefox Profilemaker](https://ffprofile.com/) Tool to create a Firefox profile with the defaults you like.
+- Extras: [Compact Mode](https://support.mozilla.org/en-US/kb/compact-mode-workaround-firefox)
 
 #### Chrome
 
