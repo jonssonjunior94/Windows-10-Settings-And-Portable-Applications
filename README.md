@@ -65,11 +65,11 @@
 
 ### Browsers
 
-## Firefox
+#### Firefox
 
 - [Firefox](https://ftp.mozilla.org/pub/firefox/releases/) Extras: [Compact Mode](https://ftp.mozilla.org/pub/firefox/releases/) [Firefox Profilemaker](https://ffprofile.com/)
 
-## Chrome
+#### Chrome
 
 - [Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases)
 Disable "Clear Cookies" to save settings and login information at visited sites. `chrome://settings/cookies`
