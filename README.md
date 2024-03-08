@@ -223,6 +223,8 @@ ________________________________________________________________________________
 
 &nbsp;
 
+&nbsp;
+
 ### Require UAC Password
 
 Press the Windows + R keys to open the Run dialog box.
@@ -242,6 +244,8 @@ And set the value to `3`. (Default value is `5`)
 And click Ok.
 
 Done.
+
+&nbsp;
 
 &nbsp;
 
