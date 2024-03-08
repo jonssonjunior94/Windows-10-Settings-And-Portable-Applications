@@ -48,7 +48,7 @@
 - [Dolphin](https://dolphin-emu.org/download/) - (GameCube / Wii) To make Dolphin emulator portable create a .txt file named "portable" inside the installation directory.
 - [Cemu](https://wiki.cemu.info/wiki/Release_1.26.2f) (Wii U) - Cemu is already portable.
 
-##### Adguard DNS Blocklists
+##### DNS Blocklists
 - [Crazy Max's WindowsSpyBlocker - Hosts spy rules](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 - [HaGeZi's Blocklist - Big Broom](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt)
 - [HaGeZi's DoH/VPN/TOR/Proxy Bypass - Prevent methods to bypass your DNS](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt)
