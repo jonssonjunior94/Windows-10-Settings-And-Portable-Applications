@@ -85,13 +85,15 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 - [Redirect Detective](https://redirectdetective.com/) - URL redirection checker, see the complete path a redirected URL goes through.
 - [Have i been pwned](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach. Only publicly discovered breaches.
 - [IsThereAnyDeal](https://isthereanydeal.com/?currency=USD) - A useful little web tool that tracks PC game prices across a variety of sources, including Steam.
-- [VirusTotal](https://www.virustotal.com/gui/home/upload) - Free service that analyzes files and URLs for viruses. It's not advisable to upload sensitive/personal files.
+- [VirusTotal](https://www.virustotal.com/gui/home/upload) - Free service that analyzes files and URLs for viruses. It's not advisable to upload sensitive files.
 - [NMHDDS](https://doyou.needmorehdd.space/?fileType=&query=chrome#) NMHDDS Google Open Directory Search Tool. Get direct download links to (almost) anything.
+- [Test Ad Block](https://d3ward.github.io/toolz/adblock.html) This tool allows you to check if your adblock solution is blocking enough hosts.
+
 - [dnscheck.tools](https://dnscheck.tools/) Identifies your DNS resolvers, checks DNSSEC validation, and more.
 - [ipaddr.tools](https://myip.addr.tools/help) get your public IP address.
 - [RDAP data](https://info.addr.tools/me) Displays relevant DNS records and RDAP registration data.
-- [Test Ad Block](https://d3ward.github.io/toolz/adblock.html) This tool allows you to check if your adblock solution is blocking enough hosts.
 
+  
 ##### Movies
 
 - [50TB Movie Collection 1](https://mega.nz/folder/iYQ3SYbA#_o9eO4o1eiCd8QsCTU7iUw/folder/2VZiQbpb), [2](https://mega.nz/folder/jotyXZgJ#u1bncm3OWEk2wc9gXxhTbQ/folder/v80UjRwJ), [3](https://mega.nz/folder/01F2XbgA#u2Si5JL2Vd0hAd7sYU59ig/folder/9ws0VTDJ).
