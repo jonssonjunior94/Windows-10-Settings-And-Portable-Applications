@@ -112,11 +112,6 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 - [ipaddr.tools](https://myip.addr.tools/help) get your public IP address.
 - [RDAP data](https://info.addr.tools/me) Displays relevant DNS records and RDAP registration data.
 
-  
-##### Other Stuff
-
-
-
 &nbsp;
 
 &nbsp;
