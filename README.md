@@ -43,6 +43,8 @@
 
 &nbsp;
 
+&nbsp;
+
 ##### Emulators and ROMs
 - [RIP Yuzu 04-03-2024](https://github.com/yuzu-emu/yuzu-mainline) - (Nintendo Switch) To make Yuzu portable create a folder named "user" inside the installation directory. [Early Access](https://github.com/pineappleEA/pineapple-src/releases) Releases.
 - [Dolphin](https://dolphin-emu.org/download/) - (GameCube / Wii) To make Dolphin emulator portable create a .txt file named "portable" inside the installation directory.
