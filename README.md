@@ -56,6 +56,7 @@
 - [Ventoy](https://github.com/ventoy/Ventoy/releases) Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
 - [Tails](https://tails.net/install/) Is a portable operating system that protects against surveillance and censorship.
 
+&nbsp;
 
 ##### DNS Blocklists
 - [Crazy Max's WindowsSpyBlocker - Hosts spy rules](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
