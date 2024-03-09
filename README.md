@@ -100,7 +100,7 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 
 &nbsp;
 
-#### Useful Websites
+### Useful Websites
 - [Send](https://github.com/timvisee/send-instances/#instances) - Share encrypted files with ease.
 - [Gmailnator](https://www.emailnator.com/) - Temporary Disposable Gmail. (Use Adblock)
 - [Redirect Detective](https://redirectdetective.com/) - URL redirection checker, see the complete path a redirected URL goes through.
