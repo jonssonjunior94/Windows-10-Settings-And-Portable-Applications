@@ -48,6 +48,13 @@
 - [Dolphin](https://dolphin-emu.org/download/) - (GameCube / Wii) To make Dolphin emulator portable create a .txt file named "portable" inside the installation directory.
 - [Cemu](https://wiki.cemu.info/wiki/Release_1.26.2f) (Wii U) - Cemu is already portable.
 
+#### USB Operating Systems
+
+- [Rufus](https://rufus.ie/downloads/) Rufus is a utility that helps format and create bootable USB flash drives.
+- [Ventoy](https://github.com/ventoy/Ventoy/releases) Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
+- [Tails](https://tails.net/install/) Is a portable operating system that protects against surveillance and censorship.
+
+
 ##### DNS Blocklists
 - [Crazy Max's WindowsSpyBlocker - Hosts spy rules](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 - [HaGeZi's Blocklist - Big Broom](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt)
