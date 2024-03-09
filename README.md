@@ -52,6 +52,7 @@
 
 
 RIP Yuzu 04-03-2024.
+- Yuzu 1734 [send.cm](https://send.cm/d/z7X5)[krakenfiles-1](https://krakenfiles.com/view/QPBFR1ZllF/file.html)[krakenfiles-2](https://krakenfiles.com/view/IgUyMaMkSo/file.html)
 
 &nbsp;
 
