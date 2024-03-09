@@ -33,6 +33,7 @@
 - [Notepad++](https://notepad-plus-plus.org/downloads/) - Notepad++ is a great replacement for Windows notepad. It's a good choice for beginners.
 - [VLC](https://www.videolan.org/vlc/download-windows.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files.
 
+&nbsp;
 
 ##### Extras (Still Portable)
 - [Scrcpy](https://github.com/Genymobile/scrcpy) - This application provides display and control of Android devices connected via USB.
@@ -42,6 +43,8 @@
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly. Plus [Everything Toolbar](https://github.com/stnkl/EverythingToolbar) for the taskbar.
 - [SuperSlicer](https://github.com/supermerill/SuperSlicer) - Developed to provide users more control over their slicer than what was possible with PrusaSlicer.
 - [NVIDIA Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Open source third-party tool created for pulling up and editing application profiles within Nvidia display drivers.
+
+&nbsp;
 
 ##### Emulators and ROMs
 - [RIP Yuzu 04-03-2024](https://github.com/yuzu-emu/yuzu-mainline) - (Nintendo Switch) To make Yuzu portable create a folder named "user" inside the installation directory. [Early Access](https://github.com/pineappleEA/pineapple-src/releases) Releases.
