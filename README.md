@@ -47,9 +47,11 @@
 
 ##### Emulators and ROMs
 - [Yuzu](https://github.com/yuzu-emu/yuzu-mainline) (Switch) To make Yuzu portable create a folder named "user" inside the installation directory.
-  RIP 04-03-2024.
 - [Dolphin](https://dolphin-emu.org/download/) (GameCube/Wii) To make Dolphin emulator portable create a .txt file named "portable" inside the installation directory.
 - [Cemu](https://wiki.cemu.info/wiki/Release_1.26.2f) (Wii U) Cemu is already portable.
+
+
+RIP Yuzu 04-03-2024.
 
 &nbsp;
 
