@@ -56,7 +56,7 @@ RIP Yuzu 04-03-2024.
 
 &nbsp;
 
-#### USB Operating Systems
+#### USB Tools & Operating Systems
 
 - [Rufus](https://rufus.ie/downloads/) Rufus is a utility that helps format and create bootable USB flash drives.
 - [Ventoy](https://github.com/ventoy/Ventoy/releases) Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
