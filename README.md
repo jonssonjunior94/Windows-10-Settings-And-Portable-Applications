@@ -89,7 +89,7 @@ RIP Yuzu 04-03-2024.
 - Extras: [Compact Mode](https://support.mozilla.org/en-US/kb/compact-mode-workaround-firefox)
 
 - Remove Fullscreen Transition Animation
--  Enter "about:config" in adress bar, search for:
+   Enter "about:config" in adress bar, search for:
 -      full-screen-api.transition-duration.enter = 
        full-screen-api.transition-duration.leave =
    And change values to "0 0"
