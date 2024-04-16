@@ -53,7 +53,7 @@
 
 
 RIP Yuzu 04-03-2024.
-- Yuzu 1734 [send.cm](https://send.cm/d/z7X5) [krakenfiles](https://krakenfiles.com/view/IgUyMaMkSo/file.html) [Mediafire](https://www.mediafire.com/file/eodvqt2uavymowj/Yuzu_1734.zip/file)
+- Yuzu 1734 [Mediafire](https://www.mediafire.com/file/eodvqt2uavymowj/Yuzu_1734.zip/file)
 
 &nbsp;
 
