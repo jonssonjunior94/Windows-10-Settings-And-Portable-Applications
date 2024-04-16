@@ -33,6 +33,7 @@
 
 
 ##### Extras (Still Portable)
+- [qBittorrent](https://github.com/portapps/qbittorrent-portable/releases) - qBittorrent is a cross-platform free and open-source BitTorrent client written in native C++. [Search plugin](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins)
 - [Scrcpy](https://github.com/Genymobile/scrcpy) - This application provides display and control of Android devices connected via USB.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes. Works great with [yt-dl-gui](https://github.com/oleksis/youtube-dl-gui).
   Also [FFmpeg.](https://github.com/BtbN/FFmpeg-Builds/releases) copy the bin folder content to the folder that yt-dlp.exe is located at `(ffprobe, ffplay and ffmpeg)`. Settings to download with h264 or h265 codec `$ yt-dlp -f "(bv*[vcodec~='^((he|a)vc|h26[45])']+ba) / (bv*+ba/b)"` And Filename Format `%(autonumber)02d. %(title)s` Works like a charm with Plex.
