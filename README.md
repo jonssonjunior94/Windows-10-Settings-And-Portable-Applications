@@ -32,7 +32,7 @@
 - [VLC](https://www.videolan.org/vlc/download-windows.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files.
 
 
-##### Extras (Still Portable)
+##### Extras
 - [qBittorrent](https://github.com/portapps/qbittorrent-portable/releases) - qBittorrent is a open-source BitTorrent client written in native C++. [Search plugin](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins)
 - [Scrcpy](https://github.com/Genymobile/scrcpy) - This application provides display and control of Android devices connected via USB.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes. Works great with [yt-dl-gui](https://github.com/oleksis/youtube-dl-gui).
