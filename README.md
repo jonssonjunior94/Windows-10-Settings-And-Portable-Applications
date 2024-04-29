@@ -101,8 +101,8 @@ about:config settings:
 
 - Remove Recommended Extensions from showing up in add-ons manager
 -      extensions.htmlaboutaddons.discover.enabled
--      extensions.htmlaboutaddons.recommendations.enabled
-                                                             Change values to "false"
+       extensions.htmlaboutaddons.recommendations.enabled
+                                                             Change value to "false"
    
 - Addons: [uBlock Origin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/) [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) 
 
