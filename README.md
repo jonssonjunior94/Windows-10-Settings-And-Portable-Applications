@@ -89,18 +89,20 @@ RIP Yuzu 04-03-2024.
 - [Firefox Profilemaker](https://ffprofile.com/) Tool to create a Firefox profile with the defaults you like.
 - Extras: [Compact Mode](https://support.mozilla.org/en-US/kb/compact-mode-workaround-firefox)
 
-- Remove Fullscreen Transition Animation
-   Enter "about:config" in adress bar, search for:
--      full-screen-api.transition-duration.enter = 
-       full-screen-api.transition-duration.leave =         Change values to "0 0"
-   
-  Enter "about:config" in adress bar, search for:
--      full-screen-api.transition-duration.enter = 
-       full-screen-api.transition-duration.leave =         Change values to "0 0"
+about:config settings:
 
-  Enter "about:config" in adress bar, search for:
+- Remove Fullscreen Transition Animation
 -      full-screen-api.transition-duration.enter = 
-       full-screen-api.transition-duration.leave =         Change values to "0 0"
+       full-screen-api.transition-duration.leave =           Change values to "0 0"
+
+- Disable "enable DRM" banner to prompt
+-      extensions.htmlaboutaddons.recommendations.enabled
+                                                             Change value to "false"
+
+- Remove Recommended Extensions from showing up in add-ons manager
+-      extensions.htmlaboutaddons.discover.enabled
+-      extensions.htmlaboutaddons.recommendations.enabled
+                                                             Change values to "false"
    
 - Addons: [uBlock Origin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/) [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) 
 
