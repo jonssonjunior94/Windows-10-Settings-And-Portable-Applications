@@ -89,7 +89,7 @@ RIP Yuzu 04-03-2024.
 - [Firefox Profilemaker](https://ffprofile.com/) Tool to create a Firefox profile with the defaults you like.
 - Extras: [Compact Mode](https://support.mozilla.org/en-US/kb/compact-mode-workaround-firefox)
 
-### [about:config](about:config) settings:
+### about:config settings:
 
 - Remove Fullscreen Transition Animation
 -      full-screen-api.transition-duration.enter = 
