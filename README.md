@@ -96,7 +96,7 @@ about:config settings:
        full-screen-api.transition-duration.leave =           Change values to "0 0"
 
 - Disable "enable DRM" banner to prompt
--      extensions.htmlaboutaddons.recommendations.enabled
+-      browser.eme.ui.enabled
                                                              Change value to "false"
 
 - Remove Recommended Extensions from showing up in add-ons manager
