@@ -104,7 +104,7 @@ RIP Yuzu 04-03-2024.
        extensions.htmlaboutaddons.recommendations.enabled
                                                              Change value to "false"
    
-- Addons: [uBlock Origin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/) [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) [TWP - Translate Web Pages](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) 
+- Addons: [uBlock Origin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/) [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) [TWP](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) 
 
 #### Chrome
 
