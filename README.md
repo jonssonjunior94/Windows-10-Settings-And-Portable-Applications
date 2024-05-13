@@ -134,6 +134,27 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 - [RDAP data](https://info.addr.tools/me) Displays relevant DNS records and RDAP registration data.
 - [Port Checker](https://portchecker.co/) Check for open ports and verify port forwarding setup on your router.
 
+
+### Uncategorized
+- Minimal dark mode for HN
+-      Addons -> uBlock Origin -> Preferences -> My Filters
+
+      # HN Color
+      news.ycombinator.com##html:style(background-color: #080808 !important)
+      news.ycombinator.com###hnmain:style(background-color: #121216 !important)
+      news.ycombinator.com##.age:style(color: #999 !important)
+      news.ycombinator.com##.c00:style(color: #999 !important)
+      news.ycombinator.com##.comhead > a:style(color: #dedede !important)
+      news.ycombinator.com##.comhead:style(color: #dedede !important)
+      news.ycombinator.com##.hnuser:style(color: #999 !important)
+      news.ycombinator.com##.subtext > a:link:style(color: #ccc !important)
+      news.ycombinator.com##.subtext > a:style(color: #999 !important)
+      news.ycombinator.com##.subtext:style(color: #999 !important)
+      news.ycombinator.com##.title > a:style(color: #999 !important; background-color: #000 !important)
+      news.ycombinator.com##a:link:style(color: #bdbdbd !important)
+      news.ycombinator.com##a:visited:style(color: #adadad !important)
+      news.ycombinator.com##a:hover:style(color: #fd0000 !important; background-color: #000855 !important)
+
 &nbsp;
 
 &nbsp;
