@@ -79,8 +79,6 @@ RIP Yuzu 04-03-2024.
 
 &nbsp;
 
-&nbsp;
-
 ### Browsers
 
 &nbsp;
