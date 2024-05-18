@@ -83,6 +83,8 @@ RIP Yuzu 04-03-2024.
 
 ### Browsers
 
+&nbsp;
+
 #### Firefox
 
 - [Mozilla FTP](https://ftp.mozilla.org/pub/firefox/releases/) 
@@ -105,6 +107,8 @@ RIP Yuzu 04-03-2024.
                                                              Change value to "false"
    
 - Addons: [uBlock Origin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/) [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) [TWP](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) [Google Mail Checker](https://addons.mozilla.org/en-US/firefox/addon/ff-google-mail-checker/) [Gumbo: Twitch Companion](https://addons.mozilla.org/en-US/firefox/addon/gumbo-twitch-companion/)
+
+&nbsp;
 
 #### Chrome
 
