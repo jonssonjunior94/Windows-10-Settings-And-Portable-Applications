@@ -134,6 +134,9 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
 - [RDAP data](https://info.addr.tools/me) Displays relevant DNS records and RDAP registration data.
 - [Port Checker](https://portchecker.co/) Check for open ports and verify port forwarding setup on your router.
 
+&nbsp;
+
+&nbsp;
 
 ### Uncategorized
 - Minimal dark mode for HN
