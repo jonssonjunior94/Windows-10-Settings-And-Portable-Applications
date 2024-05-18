@@ -157,7 +157,7 @@ Disable "Clear Cookies" to save settings and login information at visited sites.
       news.ycombinator.com##.title > a:style(color: #999 !important; background-color: #000 !important)
       news.ycombinator.com##a:link:style(color: #bdbdbd !important)
       news.ycombinator.com##a:visited:style(color: #666666 !important)
-      news.ycombinator.com##a:hover:style(color: #FCFCFC !important; background-color: #000855 !important)
+      news.ycombinator.com##a:hover:style(color: #FCFCFC !important; background-color: #5a6c6c !important)
 
 &nbsp;
 
