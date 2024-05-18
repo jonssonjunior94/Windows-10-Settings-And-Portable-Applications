@@ -81,7 +81,6 @@ RIP Yuzu 04-03-2024.
 
 ### Browsers
 
-&nbsp;
 
 #### Firefox
 
