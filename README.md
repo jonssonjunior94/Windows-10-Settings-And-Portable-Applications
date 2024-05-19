@@ -41,6 +41,7 @@
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly. Plus [Everything Toolbar](https://github.com/stnkl/EverythingToolbar) for the taskbar.
 - [SuperSlicer](https://github.com/supermerill/SuperSlicer) - Developed to provide users more control over their slicer than what was possible with PrusaSlicer.
 - [NVIDIA Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Open source third-party tool created for pulling up and editing application profiles within Nvidia display drivers.
+- [FreeTube](https://github.com/FreeTubeApp/FreeTube/releases) - FreeTube is a feature-rich and user-friendly YouTube client with a focus on privacy. [Importing your Subscriptions](https://docs.freetubeapp.io/usage/importing-subscriptions/)
 
 &nbsp;
 
